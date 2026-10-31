@@ -8,6 +8,8 @@ played: 2026-03-22
 
 ← [[Session 22]] | [[index|Home]] | [[Joran's Journal#Session 23|Joran's journal entry]] | [[Session 24]] →
 
+**Quests in play:** [[21 Ahmed's Plate Mail|Ahmed's Plate Mail]], [[22 Wake Guinevere|Wake Guinevere]]
+
 ## Previously
 
 - The party defeats a powerful [[The undead knight|undead knight]] leading a horde; [[Artorius]] displays inhuman speed and holy fire. [[Raouen Sanderfell|Raouen]] lands the final blow, and the knight crumbles to ash. Evidence of long war between the [[Cult of Abyssal Fire]] and the [[The Black Hands|Black Hand]] is found in the ruins.

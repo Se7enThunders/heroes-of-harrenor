@@ -8,6 +8,8 @@ played: 2026-09-20
 
 ← [[Session 27]] | [[index|Home]] | [[Joran's Journal#Session 28|Joran's journal entry]] | [[Session 29]] →
 
+**Quests in play:** [[22 Wake Guinevere|Wake Guinevere]], [[23 Hold Grimhold Against the 7th Jihad|Hold Grimhold Against the 7th Jihad]], [[26 Find Draven's Sister and Relight the Flame|Find Draven's Sister and Relight the Flame]]
+
 ## Previously
 
 - The party vanquished the undead [[The Grand Marshal|Grand Marshal]] after discovering he was absorbing defeated minions, only for dark magic to revive him until [[Joran Jotunsson|Joran]] executed a two-blade decapitation.

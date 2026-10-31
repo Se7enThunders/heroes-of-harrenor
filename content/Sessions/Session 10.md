@@ -8,6 +8,8 @@ played: 2025-07-20
 
 ← [[Session 9]] | [[index|Home]] | [[Joran's Journal#Session 10|Joran's journal entry]] | [[Session 11]] →
 
+**Quests in play:** [[11 Free Beatrice and Therond|Free Beatrice and Therond]]
+
 ## Previously
 
 - The party infiltrated a [[The black tower|black tower]] where a [[The mortician|mortician]] was bloodletting elves to create a life-extending serum for his leader; the elves were freed, and [[The mortician|the mortician]] killed by an escaped captive.

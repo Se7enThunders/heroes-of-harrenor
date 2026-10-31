@@ -8,6 +8,8 @@ played: 2026-04-19
 
 ← [[Session 23]] | [[index|Home]] | [[Joran's Journal#Session 24|Joran's journal entry]] | [[Session 25]] →
 
+**Quests in play:** [[22 Wake Guinevere|Wake Guinevere]]
+
 ## Previously
 
 - Party departs [[Sunwatch]] for [[Oldport]]; [[Joran Jotunsson|Joran]] sends word to [[Godric Arden|King Godric]] via [[Lord Adam Croft|Lord Croft]] while noting renewed war pressure in [[The Northeast|the Northeast]].

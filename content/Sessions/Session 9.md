@@ -8,6 +8,8 @@ played: 2025-06-29
 
 ← [[Session 8]] | [[index|Home]] | [[Joran's Journal#Session 9|Joran's journal entry]] | [[Session 10]] →
 
+**Quests in play:** [[09 Find Elia and Raze the Black Tower|Find Elia and Raze the Black Tower]], [[10 Break the Sable Wardens|Break the Sable Wardens]]
+
 Previously
 
 - The party, consisting of **[[Joran Jotunsson]]** **(me)**, **[[Raouen Sanderfell|Raouen Lawson]]**, **[[Theodore Silver]]**, **[[Draven Throssenheiser]]**, and **[[Dharshoon]]**, traveled from [[Brightguard]] to [[Na'Buchar]], posing as slavers, to investigate a **[[House Lancaster|Lancaster]]–[[Ra'Haadi forces|Ra’Haadi]] alliance**.

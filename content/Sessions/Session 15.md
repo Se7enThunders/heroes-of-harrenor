@@ -8,6 +8,8 @@ played: 2025-10-19
 
 ← [[Session 14]] | [[index|Home]] | [[Joran's Journal#Session 15|Joran's journal entry]] | [[Session 16]] →
 
+**Quests in play:** [[14 Bring Sophia Home|Bring Sophia Home]], [[15 Avenge House Hay|Avenge House Hay]], [[16 Ring the First Two Bells|Ring the First Two Bells]], [[20 Ring the Third Bell|Ring the Third Bell]]
+
 ## Previously
 
  - The party learned that [[Sophia Grey]] had escaped. [[Raouen Sanderfell|Raouen]] was denied funds at the bank (his family owes 100k gold), while [[Dharshoon]] received an outlandish franchising offer from [[James Goldblum]].

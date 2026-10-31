@@ -8,6 +8,8 @@ played: 2025-06-03
 
 ← [[Session 6]] | [[index|Home]] | [[Joran's Journal#Session 7|Joran's journal entry]] | [[Session 8]] →
 
+**Quests in play:** [[07 Cross the Blight into Ra'Haad|Cross the Blight into Ra'Haad]], [[08 Hunt the Ashfall Wyvern|Hunt the Ashfall Wyvern]]
+
 ## Previously
 
 - Traveling with

@@ -8,6 +8,8 @@ played: 2026-10-25
 
 ← [[Session 29]] | [[index|Home]] | [[Joran's Journal#Session 30|Joran's journal entry]] | [[Session 31]] →
 
+**Quests in play:** [[23 Hold Grimhold Against the 7th Jihad|Hold Grimhold Against the 7th Jihad]], [[26 Find Draven's Sister and Relight the Flame|Find Draven's Sister and Relight the Flame]], [[27 Free Theo and Raouen|Free Theo and Raouen]], [[28 Keep House Grey Standing|Keep House Grey Standing]], [[29 Answer the Sanctuary Betrayal|Answer the Sanctuary Betrayal]]
+
 ## Previously
 
 - Spotting a 100,000+ [[Ra'Haadi forces|Ra’Haadi]] host near [[Grimhold]], the party chose sabotage over suicide — poisoning wells along its route and warning [[Sunwatch]] and [[Stag's Rest|Stag’s Rest]] — while reluctantly riding past a slave caravan (tied to [[Draven Throssenheiser|Draven]]’s old crime syndicate, [[The Bloody Knives|the Bloody Knives]]) they had no realistic chance of saving.

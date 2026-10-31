@@ -8,6 +8,8 @@ played: 2026-02-15
 
 ← [[Session 20]] | [[index|Home]] | [[Joran's Journal#Session 21|Joran's journal entry]] | [[Session 22]] →
 
+**Quests in play:** [[02 Bring Henry Grey to Heel|Bring Henry Grey to Heel]], [[16 Ring the First Two Bells|Ring the First Two Bells]]
+
 ## Previously
 
 - [[Henry Grey]] formally accepts [[Godric Arden]]’s alliance; [[Theodore Silver|Theo]] is promised official lordship of [[Sunwatch]] after the war and recognition in all but name immediately.

@@ -8,6 +8,8 @@ played: 2026-03-01
 
 ← [[Session 21]] | [[index|Home]] | [[Joran's Journal#Session 22|Joran's journal entry]] | [[Session 23]] →
 
+**Quests in play:** [[03 Joran's Father and the Fight for His Soul|Joran's Father and the Fight for His Soul]], [[16 Ring the First Two Bells|Ring the First Two Bells]], [[19 What the Black Ring and Palantir Unlock|What the Black Ring and Palantir Unlock]], [[20 Ring the Third Bell|Ring the Third Bell]]
+
 ## Previously
 
 - [[Henry Grey]] finalizes terms with [[Theodore Silver|Theo]]: [[Sunwatch]] remains politically understated for now, but [[Theodore Silver|Theo]]’s lordship is effectively secured; the captured [[The Janissary|Janissary]] is imprisoned rather than executed. Tension grows among the southern lords, especially with [[Lord Callum Douglas|Douglas]] and [[House Cromwell|Cromwell]] conferring.

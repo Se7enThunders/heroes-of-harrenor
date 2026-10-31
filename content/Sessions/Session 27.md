@@ -8,6 +8,8 @@ played: 2026-08-23
 
 ← [[Session 26]] | [[index|Home]] | [[Joran's Journal#Session 27|Joran's journal entry]] | [[Session 28]] →
 
+**Quests in play:** [[03 Joran's Father and the Fight for His Soul|Joran's Father and the Fight for His Soul]], [[22 Wake Guinevere|Wake Guinevere]]
+
 ## Previously
 
 - The party uncovered ancient records beneath [[Telandor]] revealing the history of the [[Everwhite Trees|Everwhite tree]], the holy [[The Kilns|kiln]], [[Guinevere|Gwenivere]], [[Lady Seraphyne|Seraphyne]]'s hidden altar, and the [[Sable Wardens]]' pursuit of immortality, confirming the catacombs hold far more than a simple crypt.

@@ -8,6 +8,8 @@ played: 2025-02-17
 
 ← [[Session 3]] | [[index|Home]] | [[Joran's Journal#Session 4|Joran's journal entry]] | [[Session 5]] →
 
+**Quests in play:** [[04 Take Stoneheath|Take Stoneheath]], [[05 Stop the Western Cultists|Stop the Western Cultists]]
+
 ## Goals
 
 - Now that [[Stoneheath]] has been taken, get new orders, likely from [[Sir Baylon Stelaris|Baelon Stelaris]].

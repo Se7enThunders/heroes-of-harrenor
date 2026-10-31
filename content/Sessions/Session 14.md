@@ -8,6 +8,8 @@ played: 2025-10-05
 
 ← [[Session 13]] | [[index|Home]] | [[Joran's Journal#Session 14|Joran's journal entry]] | [[Session 15]] →
 
+**Quests in play:** [[13 Fetch Robert Lancaster|Fetch Robert Lancaster]], [[14 Bring Sophia Home|Bring Sophia Home]]
+
 ## Previously
 
  - The party encountered a mysterious [[Artorius|Outrider]] after finding a dead [[The Black Hands|Black Hand]] assassin, noting his strangely warm hand and ancient gear. [[Joran Jotunsson|Joran]] and the party speculated he might be a supernatural being.

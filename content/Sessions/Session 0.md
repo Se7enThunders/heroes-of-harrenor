@@ -6,6 +6,8 @@ session: 0
 played: 2024-11-17
 ---
 
+**Quests in play:** [[01 Retake Brightguard|Retake Brightguard]], [[03 Joran's Father and the Fight for His Soul|Joran's Father and the Fight for His Soul]]
+
 [[index|Home]] | [[Joran's Journal#Session 0|Joran's journal entry]] | [[Session 1]] →
 
 [[Joran Jotunsson]] is a member of [Godric Arden](Godric%20Arden)'s personal guard. He's a colossal man and a renowned fighter. ![[Joran Jotunsson art 1.jpg|hh-pop]]

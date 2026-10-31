@@ -8,6 +8,8 @@ played: 2024-12-15
 
 ← [[Session 0]] | [[index|Home]] | [[Joran's Journal#Session 1|Joran's journal entry]] | [[Session 2]] →
 
+**Quests in play:** [[02 Bring Henry Grey to Heel|Bring Henry Grey to Heel]]
+
 Previously…
 
 [[Godric Arden|Godric]] summons [[Joran Jotunsson|Joran]] and [[Elara]].

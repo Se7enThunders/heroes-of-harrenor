@@ -8,6 +8,8 @@ played: 2025-02-16
 
 ← [[Session 2]] | [[index|Home]] | [[Joran's Journal#Session 3|Joran's journal entry]] | [[Session 4]] →
 
+**Quests in play:** [[04 Take Stoneheath|Take Stoneheath]]
+
 ## Goals
 
 - Head to [[Stoneheath]] and infiltrate via secret entrance we learned of from the old man vendor on the road.

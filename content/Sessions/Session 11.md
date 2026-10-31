@@ -8,6 +8,8 @@ played: 2025-08-10
 
 ← [[Session 10]] | [[index|Home]] | [[Joran's Journal#Session 11|Joran's journal entry]] | [[Session 12]] →
 
+**Quests in play:** [[12 Lead the Larad Exodus|Lead the Larad Exodus]]
+
 ## Previously
 
 - The party rejoined **[[Sahir Ebon'Sayid]]**, who was hastily evacuating his estate after the location of his freed-slave city was exposed. The party agreed to follow him for protection.

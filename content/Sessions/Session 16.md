@@ -8,6 +8,8 @@ played: 2025-11-09
 
 ← [[Session 15]] | [[index|Home]] | [[Joran's Journal#Session 16|Joran's journal entry]] | [[Interlude 16.5]] →
 
+**Quests in play:** [[03 Joran's Father and the Fight for His Soul|Joran's Father and the Fight for His Soul]], [[14 Bring Sophia Home|Bring Sophia Home]], [[15 Avenge House Hay|Avenge House Hay]]
+
 ## Previously
 
  - [[Joran Jotunsson|Joran]] was confirmed into the Faith of [[The Almighty|the Almighty]] by [[Father James]] after a disturbing dream recounted by [[Dharshoon]] confirmed the theology. [[Joran Jotunsson|Joran]] sought out the faith after speaking with [[Sir Ignatius]] of [[Order of Holy Fire|the Order]] of [[Order of Holy Fire|Holy Fire]].

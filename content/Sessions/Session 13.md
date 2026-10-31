@@ -8,6 +8,8 @@ played: 2025-09-14
 
 ← [[Session 12]] | [[index|Home]] | [[Joran's Journal#Session 13|Joran's journal entry]] | [[Session 14]] →
 
+**Quests in play:** [[13 Fetch Robert Lancaster|Fetch Robert Lancaster]], [[14 Bring Sophia Home|Bring Sophia Home]]
+
 ## Previously
 
  - The party and a large group of freedmen arrived at [[Grimhold]], a fortress on the border of [[Harrenor]]. They were greeted by [[Torren Grimston]], who promised a proper burial for [[Sahir Ebon'Sayid|Sahir]].

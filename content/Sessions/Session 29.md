@@ -8,6 +8,8 @@ played: 2026-10-11
 
 ← [[Session 28]] | [[index|Home]] | [[Joran's Journal#Session 29|Joran's journal entry]] | [[Session 30]] →
 
+**Quests in play:** [[23 Hold Grimhold Against the 7th Jihad|Hold Grimhold Against the 7th Jihad]], [[24 Warn the South of the Jihad|Warn the South of the Jihad]], [[25 Redeem the Elven Caravan|Redeem the Elven Caravan]], [[26 Find Draven's Sister and Relight the Flame|Find Draven's Sister and Relight the Flame]]
+
 ## Now
 
  - We perched nearby, out of site, taking in the amassing troops at the border of [[Ra'Haad]] and [[Harrenor]]. ![[Session 29 art 1.png|hh-pop]]

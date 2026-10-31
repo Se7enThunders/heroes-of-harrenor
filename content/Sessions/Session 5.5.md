@@ -8,6 +8,8 @@ played: 2025-04-27
 
 ← [[Session 5]] | [[index|Home]] | [[Joran's Journal#Session 5.5|Joran's journal entry]] | [[Session 6]] →
 
+**Quests in play:** [[06 Relieve Kingsmont|Relieve Kingsmont]]
+
 Party: Traveling with [[Elara]], [[Raouen Sanderfell|Raouen]], [[Theodore Silver|Theodore]], [[Draven Throssenheiser|Draven]], [[Dharshoon]].
 [[Joran Jotunsson|Joran]]: Needs maul/armor; Savage Attacker reminder.
 

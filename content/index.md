@@ -10,10 +10,22 @@ automatic-linker-off: true
 
 **Color key:** <span class="hh-party">party</span>, <span class="hh-ally">friends & neutrals</span>, <span class="hh-enemy">enemies</span>, <span class="hh-place">places</span>, <span class="hh-item">items, events & friendly orders</span>, <span class="hh-quest">quests</span>. Friendly houses are blue, hostile houses and orders red.
 
+## Where we left off
+
+*Last played: [[Session 30]] (Oct 25). Up next: [[Session 31]].*
+
+- **Sanctuary was a trap.** [[Lord Callum Douglas|Lord Douglas]] and the [[House Lancaster|Lancasters]] stabbed [[Henry Grey]] under guest rights and routed the [[House Grey|Grey]] army. [[Theodore Silver|Theo]] and [[Raouen Sanderfell|Raouen]] were taken prisoner. The rest of the party fought free and retreated with the survivors.
+- **Most urgent (<span class="bc-1">BEACON 1</span>):** [[27 Free Theo and Raouen|Free Theo and Raouen]] and [[23 Hold Grimhold Against the 7th Jihad|Hold Grimhold Against the 7th Jihad]]. A 100,000-strong Ra'Haadi host is marching on [[Grimhold]].
+- **Next (<span class="bc-2">BEACON 2</span>):** [[28 Keep House Grey Standing|Keep House Grey Standing]] and [[29 Answer the Sanctuary Betrayal|Answer the Sanctuary Betrayal]].
+- **Joran's plan:** find [[Lord Raymond Grimston|Raymond Grimston]], who will likely be managing the retreat or a counterattack.
+- Full list: [[Quest Log]].
+
 ## Reference
 
 - [[Map of Harrenor.png|The map of Harrenor]]: the full color map
 - [[Quest Log]]: current quests ranked by urgency, and completed quests
+- [[Alliances & Rivalries]]: who stands with whom, in one picture
+- [[Timeline]]: the big events in order
 - [[Who's Who]]: every character, by court and faction
 - [[Houses & Politics]]: the crowns, the hostages, the fault lines
 - [[Orders & Guilds]]: faiths, cults, spies, sellswords and banks

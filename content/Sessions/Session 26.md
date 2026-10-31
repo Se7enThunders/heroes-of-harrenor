@@ -8,6 +8,8 @@ played: 2026-07-26
 
 ← [[Session 25]] | [[index|Home]] | [[Joran's Journal#Session 26|Joran's journal entry]] | [[Session 27]] →
 
+**Quests in play:** [[22 Wake Guinevere|Wake Guinevere]]
+
 ## Previously
 
 - The party defeated [[The molten demon|the molten demon]] haunting [[Telandor]]. [[Sir Baylon Stelaris|Balon]] used [[Starbinder]] to dispel magical darkness, [[Joran Jotunsson|Joran]] knocked the creature from a stone spire, and [[Theodore Silver|Theo]] landed the killing blow, decapitating it before it exploded in flame.

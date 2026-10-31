@@ -8,6 +8,8 @@ played: 2026-01-11
 
 ← [[Session 18]] | [[index|Home]] | [[Joran's Journal#Session 19|Joran's journal entry]] | [[Session 20]] →
 
+**Quests in play:** [[02 Bring Henry Grey to Heel|Bring Henry Grey to Heel]], [[17 Claim Sunwatch|Claim Sunwatch]], [[18 Win Theo's Trial by Combat|Win Theo's Trial by Combat]]
+
 ## Previously
 
 - The party cleared an old fort of [[House Aurelius]] from bandits and freed [[Brutus]], the long-suffering Castellan. The now deceased bandit leader bore the sigil of [[Lord Thomas Baring|Lord Baring]].

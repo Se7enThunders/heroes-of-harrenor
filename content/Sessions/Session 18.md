@@ -8,6 +8,8 @@ played: 2025-12-21
 
 ← [[Session 17]] | [[index|Home]] | [[Joran's Journal#Session 18|Joran's journal entry]] | [[Session 19]] →
 
+**Quests in play:** [[17 Claim Sunwatch|Claim Sunwatch]]
+
 ## Previously
 
 - The party discussed their shared prophetic dreams ([[Joran Jotunsson|Joran]], [[Draven Throssenheiser|Draven]], [[Raouen Sanderfell|Raouen]]), including [[Raouen Sanderfell|Raouen]] and [[Draven Throssenheiser|Draven]]'s visions of stabbing [[Henry Grey]] and [[Joran Jotunsson|Joran]]'s vision of disaster.

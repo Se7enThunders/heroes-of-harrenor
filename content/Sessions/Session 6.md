@@ -8,6 +8,8 @@ played: 2025-05-04
 
 ← [[Session 5.5]] | [[index|Home]] | [[Joran's Journal#Session 6|Joran's journal entry]] | [[Session 7]] →
 
+**Quests in play:** [[07 Cross the Blight into Ra'Haad|Cross the Blight into Ra'Haad]]
+
 - Traveling with
 	- [[Elara]] (aasimar) Rebekah)
 	- [[Raouen Sanderfell|Raouen Lawson]] (human) (Josh)

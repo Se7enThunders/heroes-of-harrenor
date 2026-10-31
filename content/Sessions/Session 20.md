@@ -8,6 +8,8 @@ played: 2026-01-18
 
 ← [[Session 19]] | [[index|Home]] | [[Joran's Journal#Session 20|Joran's journal entry]] | [[Session 21]] →
 
+**Quests in play:** [[02 Bring Henry Grey to Heel|Bring Henry Grey to Heel]], [[10 Break the Sable Wardens|Break the Sable Wardens]]
+
 ## Previously
 
 - [[Theodore Silver|Theo]] is named lord of [[Sunwatch]] and claims _Radiance_. The party invests gold, starts repairs, and lays groundwork to repopulate the castle.

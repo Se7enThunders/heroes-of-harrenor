@@ -8,6 +8,8 @@ played: 2025-06-22
 
 ← [[Session 7]] | [[index|Home]] | [[Joran's Journal#Session 8|Joran's journal entry]] | [[Session 9]] →
 
+**Quests in play:** [[07 Cross the Blight into Ra'Haad|Cross the Blight into Ra'Haad]], [[09 Find Elia and Raze the Black Tower|Find Elia and Raze the Black Tower]], [[10 Break the Sable Wardens|Break the Sable Wardens]]
+
 ## Previously
 
 - Traveling with

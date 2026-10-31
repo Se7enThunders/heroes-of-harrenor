@@ -8,6 +8,8 @@ played: 2026-06-14
 
 ← [[Session 24]] | [[index|Home]] | [[Joran's Journal#Session 25|Joran's journal entry]] | [[Session 26]] →
 
+**Quests in play:** [[22 Wake Guinevere|Wake Guinevere]]
+
 ## Previously
 
  - Party escapes hostile [[Ra'Haadi forces|Ra’Haadi]] town after killing pursuing guards and crosses into the [[The Blight]], where several members suffer visions of a burning ruined city and dreams of a [[The molten demon|molten demon]].

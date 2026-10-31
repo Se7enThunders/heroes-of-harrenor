@@ -6,6 +6,8 @@ session: 17
 played: 2025-12-07
 ---
 
+**Quests in play:** [[13 Fetch Robert Lancaster|Fetch Robert Lancaster]]
+
 ← [[Interlude 16.5]] | [[index|Home]] | [[Joran's Journal#Session 17|Joran's journal entry]] | [[Session 18]] →
 
 ## Previously
