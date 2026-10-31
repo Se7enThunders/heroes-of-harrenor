@@ -8,7 +8,7 @@ played: 2025-12-07
 
 **Quests in play:** [[13 Fetch Robert Lancaster|Fetch Robert Lancaster]]
 
-← [[Session 16]] | [[index|Home]] | [[Joran's Journal#Session 17|Joran's journal entry]] | [[Session 18]] →
+← [[Interlude 16.5]] | [[index|Home]] | [[Joran's Journal#Session 17|Joran's journal entry]] | [[Session 18]] →
 
 ## Previously
 
@@ -195,4 +195,4 @@ COMBAT!
 > ![[Session 17 art 2.png]]
 
 ---
-← [[Session 16]] | [[index|Home]] | [[Joran's Journal#Session 17|Joran's journal entry]] | [[Session 18]] →
+← [[Interlude 16.5]] | [[index|Home]] | [[Joran's Journal#Session 17|Joran's journal entry]] | [[Session 18]] →

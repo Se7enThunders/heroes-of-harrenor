@@ -15,5 +15,5 @@ first-seen: S0
 
 ## Appears in
 
-**Session notes:** [[Session 0|S0]], [[Session 5.5|S5.5]], [[Session 6|S6]], [[Session 7|S7]], [[Session 8|S8]], [[Session 9|S9]], [[Session 13|S13]], [[Session 14|S14]], [[Session 15|S15]], [[Interlude 15.5|Int. 15.5]], [[Session 16|S16]], [[Session 17|S17]], [[Session 18|S18]]  
-**Joran's journal:** [[Joran's Journal#Session 0|S0]], [[Joran's Journal#Session 5.5|S5.5]], [[Joran's Journal#Session 6|S6]], [[Joran's Journal#Session 13|S13]], [[Joran's Journal#Session 14|S14]], [[Joran's Journal#Interlude 15.5|Int. 15.5]], [[Joran's Journal#Session 16|S16]], [[Joran's Journal#Session 17|S17]]
+**Session notes:** [[Session 0|S0]], [[Session 5.5|S5.5]], [[Session 6|S6]], [[Session 7|S7]], [[Session 8|S8]], [[Session 9|S9]], [[Session 13|S13]], [[Session 14|S14]], [[Session 15|S15]], [[Session 16|S16]], [[Interlude 16.5|Int. 16.5]], [[Session 17|S17]], [[Session 18|S18]]  
+**Joran's journal:** [[Joran's Journal#Session 0|S0]], [[Joran's Journal#Session 5.5|S5.5]], [[Joran's Journal#Session 6|S6]], [[Joran's Journal#Session 13|S13]], [[Joran's Journal#Session 14|S14]], [[Joran's Journal#Session 16|S16]], [[Joran's Journal#Interlude 16.5|Int. 16.5]], [[Joran's Journal#Session 17|S17]]

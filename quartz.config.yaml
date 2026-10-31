@@ -132,6 +132,8 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      sortFn: "(a, b) => { const k = (n) => { const t = n.displayName || ''; return t.startsWith('Interlude ') ? 'Session ' + t.slice(10) : t; }; if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1; return k(a).localeCompare(k(b), undefined, { numeric: true, sensitivity: 'base' }); }"
     layout:
       position: left
       priority: 50

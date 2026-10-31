@@ -25,5 +25,5 @@ Leans toward: hidden. After: put their evil gods in control of the world via sac
 
 ## Appears in
 
-**Session notes:** [[Session 4|S4]], [[Session 5|S5]], [[Session 5.5|S5.5]], [[Session 10|S10]], [[Session 11|S11]], [[Session 15|S15]], [[Interlude 15.5|Int. 15.5]], [[Session 22|S22]], [[Session 23|S23]], [[Session 26|S26]], [[Session 27|S27]]  
-**Joran's journal:** [[Joran's Journal#Session 4|S4]], [[Joran's Journal#Session 5|S5]], [[Joran's Journal#Session 10|S10]], [[Joran's Journal#Session 11|S11]], [[Joran's Journal#Session 12|S12]], [[Joran's Journal#Session 15|S15]], [[Joran's Journal#Interlude 15.5|Int. 15.5]], [[Joran's Journal#Session 22|S22]], [[Joran's Journal#Session 26|S26]], [[Joran's Journal#Session 27|S27]]
+**Session notes:** [[Session 4|S4]], [[Session 5|S5]], [[Session 5.5|S5.5]], [[Session 10|S10]], [[Session 11|S11]], [[Session 15|S15]], [[Interlude 16.5|Int. 16.5]], [[Session 22|S22]], [[Session 23|S23]], [[Session 26|S26]], [[Session 27|S27]]  
+**Joran's journal:** [[Joran's Journal#Session 4|S4]], [[Joran's Journal#Session 5|S5]], [[Joran's Journal#Session 10|S10]], [[Joran's Journal#Session 11|S11]], [[Joran's Journal#Session 12|S12]], [[Joran's Journal#Session 15|S15]], [[Joran's Journal#Interlude 16.5|Int. 16.5]], [[Joran's Journal#Session 22|S22]], [[Joran's Journal#Session 26|S26]], [[Joran's Journal#Session 27|S27]]

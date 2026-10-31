@@ -20,5 +20,5 @@ Like a niece/daughter to [[Joran Jotunsson|Joran]]; he carved her a [[Olivia's L
 
 ## Appears in
 
-**Session notes:** [[Session 0|S0]], [[Session 5.5|S5.5]], [[Session 6|S6]], [[Session 9|S9]], [[Session 10|S10]], [[Session 15|S15]], [[Interlude 15.5|Int. 15.5]], [[Session 17|S17]]  
-**Joran's journal:** [[Joran's Journal#Session 0|S0]], [[Joran's Journal#Session 5.5|S5.5]], [[Joran's Journal#Session 9|S9]], [[Joran's Journal#Session 15|S15]], [[Joran's Journal#Interlude 15.5|Int. 15.5]], [[Joran's Journal#Session 16|S16]], [[Joran's Journal#Session 17|S17]], [[Joran's Journal#Session 28|S28]]
+**Session notes:** [[Session 0|S0]], [[Session 5.5|S5.5]], [[Session 6|S6]], [[Session 9|S9]], [[Session 10|S10]], [[Session 15|S15]], [[Interlude 16.5|Int. 16.5]], [[Session 17|S17]]  
+**Joran's journal:** [[Joran's Journal#Session 0|S0]], [[Joran's Journal#Session 5.5|S5.5]], [[Joran's Journal#Session 9|S9]], [[Joran's Journal#Session 15|S15]], [[Joran's Journal#Session 16|S16]], [[Joran's Journal#Interlude 16.5|Int. 16.5]], [[Joran's Journal#Session 17|S17]], [[Joran's Journal#Session 28|S28]]

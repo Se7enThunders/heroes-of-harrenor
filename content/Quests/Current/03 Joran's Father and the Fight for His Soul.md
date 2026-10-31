@@ -20,7 +20,7 @@ aliases:
 
 ## What we know
 
-- A tall thin figure in Joran's visions: "I am thy father. Thou art my progeny." He offered Joran conquest of Varanor and Joran said no (S15.5).
+- A tall thin figure in Joran's visions: "I am thy father. Thou art my progeny." He offered Joran conquest of Varanor and Joran said no (S16.5).
 - [[Goroth]] and the [[The Iron Fist|Iron Fist]] both claimed to share Joran's father. Both are dead, and Joran killed both.
 - [[Sir Ignatius]]'s guess: the father is the lieutenant of a fallen archangel.
 - In S22 Joran shouted at the sky: he will lose, and Joran prays to be the instrument of his destruction.

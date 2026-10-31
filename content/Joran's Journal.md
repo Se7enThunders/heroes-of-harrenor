@@ -6,7 +6,7 @@ hh: journal
 
 *The journal of Joran Jotunsson, in his own words. Each entry matches a session; use the outline pane or the links below to jump.*
 
-[[#Session 0|S0]], [[#Session 1|S1]], [[#Session 2|S2]], [[#Session 3|S3]], [[#Session 4|S4]], [[#Session 5|S5]], [[#Session 5.5|S5.5]], [[#Session 6|S6]], [[#Session 7|S7]], [[#Session 8|S8]], [[#Session 9|S9]], [[#Session 10|S10]], [[#Session 11|S11]], [[#Session 12|S12]], [[#Session 13|S13]], [[#Session 14|S14]], [[#Session 15|S15]], [[#Interlude 15.5|Int. 15.5]], [[#Session 16|S16]], [[#Session 17|S17]], [[#Session 18|S18]], [[#Session 19|S19]], [[#Session 20|S20]], [[#Session 21|S21]], [[#Session 22|S22]], [[#Session 23|S23]], [[#Session 24|S24]], [[#Session 25|S25]], [[#Session 26|S26]], [[#Session 27|S27]], [[#Session 28|S28]], [[#Session 29|S29]], [[#Session 30|S30]], [[#Session 31|S31]]
+[[#Session 0|S0]], [[#Session 1|S1]], [[#Session 2|S2]], [[#Session 3|S3]], [[#Session 4|S4]], [[#Session 5|S5]], [[#Session 5.5|S5.5]], [[#Session 6|S6]], [[#Session 7|S7]], [[#Session 8|S8]], [[#Session 9|S9]], [[#Session 10|S10]], [[#Session 11|S11]], [[#Session 12|S12]], [[#Session 13|S13]], [[#Session 14|S14]], [[#Session 15|S15]], [[#Session 16|S16]], [[#Interlude 16.5|Int. 16.5]], [[#Session 17|S17]], [[#Session 18|S18]], [[#Session 19|S19]], [[#Session 20|S20]], [[#Session 21|S21]], [[#Session 22|S22]], [[#Session 23|S23]], [[#Session 24|S24]], [[#Session 25|S25]], [[#Session 26|S26]], [[#Session 27|S27]], [[#Session 28|S28]], [[#Session 29|S29]], [[#Session 30|S30]], [[#Session 31|S31]]
 
 
 ## Session 0
@@ -567,9 +567,35 @@ She led us to an old cathedral. Below, we found the brutally butchered bodies of
 We entered a large room where a [[The man in black|man in black]] armor was scoring the killing blow on the last [[House Hay]] knight. He named himself [[Goroth]], dragon master, and vowed to kill us. As he, his dragon [[Ergond]], and his minions attacked, the battle began. We are surrounded, but with [[The Almighty|the Almighty]] as my shield, I will press on.
 
 
-## Interlude 15.5
+## Session 16
 
-*Session notes: [[Interlude 15.5]]*
+*Session notes: [[Session 16]]*
+
+The battle in the ancient temple complex was a descent into brutal chaos, the most challenging fight since the wights. [[Anri]], the [[Handmaidens of Seraphyne|handmaiden]] of [[The Almighty|the Almighty]], was our shield, her holy magic a balm against the torrent of blows. The air thrummed with dark power and the metallic scent of fresh blood.
+
+The dragon, [[Ergond]], attacked with fire that seared my armor and skin. When it lunged at me, I did not hesitate. My blade found its mark, severing its head—a clean, final cut. Its master, [[Goroth]], erupted in rage, sprouting wings of red lightning, his blade sheathed in dark power. He rushed me, screaming threats, "I will bring your bastard head to father!" He was a madman, fueled by spite and dark magic. He nearly killed me. But the strength of [[The Almighty|the Almighty]] flowed through me. I hammered him down, driving my blade through his gullet. As he died, transforming into a skeletal husk, he swore his "father" had plans for me. His helm, however, remained untouched by the rapid decay. I kept it; a tool for future deception.
+
+[[Dharshoon]], after looting an acolyte, found a log. It spoke of [[Goroth]]'s ambition: to slay his father, [[Tyria]]'s killer, using the power of the dragon he had claimed. [[Sir Ignatius]] confirmed my fears: [[Goroth]]'s father is likely the lieutenant of an Archangel who fell from the heavens. The darkness follows us, its roots deeper than any war.
+
+With the temple silenced, the absolute silence we had known was replaced by the sound of birds and life returning to the rafters. [[Anri]], though her immediate task was complete, promised to call on us. [[Sir Ignatius|Ignatius]] stayed behind to watch over her.
+
+We rode north along the coast, hunting [[Sophia Grey]]. We suspected she was with the rogue knight, [[Sir Garrik Ryder|Sir Garrik]] of [[House Ryder]]. We found a small inn at dusk. As we ate, a man and a girl entered, wearing hooded cloaks. Our quarry.
+We formulated a plan: [[Theodore Silver|Theo]] and [[Raouen Sanderfell|Raouen]] to confront them, [[Draven Throssenheiser|Draven]] and [[Dharshoon]] at the window, and myself positioned below. The confrontation failed immediately. [[Sir Garrik Ryder|Garrik]], defiant and fast, punched [[Theodore Silver|Theo]]. When I climbed the stairs, he confirmed their identities and pressed a blade to my neck. He did not trust us.
+
+I used the confusion to disengage, but his blade nicked my neck—a potentially fatal wound, but [[Draven Throssenheiser|Draven]] was quickly able to retrieve [[Dharshoon]] to heal me while [[Raouen Sanderfell|Raouen]] helped keep me stable. I understood his distrust. I looked at [[Sophia Grey|Sophia]], and felt a profound kinship with [[Sir Garrik Ryder|Garrik]]. He saw her, a young noble girl, in danger, and broke his sacred fealty to [[William Arden]] to save her. The memory of [[Olivia Arden]] flashed in my mind—[[Godric Arden|Godric]]’s daughter. Were she ever in trouble, I think I know deep down that I would break every oath I held to rescue her. I should have apprehended [[Sir Garrik Ryder|Garrik]], but the truth of his devotion was too strong. I did not have the heart to take him in.
+
+[[Sir Garrik Ryder|Garrik]] and [[Sophia Grey|Sophia]] escaped through the window, onto their horses. We pursued. I shouted out to [[Sir Garrik Ryder|Garrik]], pleading for him to let us take [[Sophia Grey|Sophia]], to avoid violence. [[Sophia Grey|Sophia]], in tears, agreed to come with us. [[Sir Garrik Ryder|Garrik]], honor intact, threw down his sword and surrendered her. I comforted him, vouching for his honor, urging him to come to [[Godric Arden|Godric]]. He declined, worried about the punishment for breaking fealty.
+
+We returned to [[Brightguard]] days later. [[Sophia Grey|Sophia]] was turned over to the guard. [[Sir John Marshall|John Marshall]] congratulated us. I was then called to the King's chambers. I overheard [[Celia Bruce-Arden|Queen Celia]] and [[Godric Arden|Godric]] discussing a "madman" who was half crazed, a fool who washed up from a shipwreck, but whom [[Godric Arden|Godric]] deemed harmless. [[Godric Arden|Godric]] was pleased [[Sophia Grey|Sophia]] was captured but disappointed we did not bring in [[Sir Garrik Ryder|Garrik]]. I explained the situation and asked about the "madman."
+
+We learned that [[Henry Grey]] had successfully recaptured [[Oldport]]. Our mission: deliver terms to [[Henry Grey]]. He will receive his sister only if he swears fealty to [[Godric Arden|Godric]], though he may retain his Kingly title in [[The South|the South]]. As I took my leave and rejoined my comrades, explaining the details of the meeting, a voice, manic and sing-song, echoed through the castle halls: “The red wolves feast on stags in the forest, to burning men cheering in dreadful chorus! I know! I know! Oh yes I know!”
+
+The madman has seen the future, or perhaps the past. I explained the nature of the fool found in the shipwreck. We are now heading back into the heart of the war, carrying a burden of peace and a message that will either save the realm or tear it apart.
+
+
+## Interlude 16.5
+
+*Session notes: [[Interlude 16.5]]*
 
 The cold sweat is still drying on my skin. I sit awake, though the morning sun has not yet touched the windows of [[Brightguard]]. I thought I had come home, but the dreams—they follow. They are relentless.
 
@@ -599,32 +625,6 @@ He unleashed the wounds of my fallen self, who rose again, eyes now burning with
 I woke up, tears burning my face. I knelt by my bed. I confessed my origin, my cursed blood, to [[The Almighty|the Almighty]]. I don't know if He heard me, but for the first time since that vision, I felt a spark of comfort amidst the fear. Small, but real.
 
 I know now that the war is not just for a throne. It is for my soul. The enemy is in the North, waiting. And he will not stop until he has turned me into the beast he created. I must move. I must prepare. I cannot let that prophecy come true.
-
-
-## Session 16
-
-*Session notes: [[Session 16]]*
-
-The battle in the ancient temple complex was a descent into brutal chaos, the most challenging fight since the wights. [[Anri]], the [[Handmaidens of Seraphyne|handmaiden]] of [[The Almighty|the Almighty]], was our shield, her holy magic a balm against the torrent of blows. The air thrummed with dark power and the metallic scent of fresh blood.
-
-The dragon, [[Ergond]], attacked with fire that seared my armor and skin. When it lunged at me, I did not hesitate. My blade found its mark, severing its head—a clean, final cut. Its master, [[Goroth]], erupted in rage, sprouting wings of red lightning, his blade sheathed in dark power. He rushed me, screaming threats, "I will bring your bastard head to father!" He was a madman, fueled by spite and dark magic. He nearly killed me. But the strength of [[The Almighty|the Almighty]] flowed through me. I hammered him down, driving my blade through his gullet. As he died, transforming into a skeletal husk, he swore his "father" had plans for me. His helm, however, remained untouched by the rapid decay. I kept it; a tool for future deception.
-
-[[Dharshoon]], after looting an acolyte, found a log. It spoke of [[Goroth]]'s ambition: to slay his father, [[Tyria]]'s killer, using the power of the dragon he had claimed. [[Sir Ignatius]] confirmed my fears: [[Goroth]]'s father is likely the lieutenant of an Archangel who fell from the heavens. The darkness follows us, its roots deeper than any war.
-
-With the temple silenced, the absolute silence we had known was replaced by the sound of birds and life returning to the rafters. [[Anri]], though her immediate task was complete, promised to call on us. [[Sir Ignatius|Ignatius]] stayed behind to watch over her.
-
-We rode north along the coast, hunting [[Sophia Grey]]. We suspected she was with the rogue knight, [[Sir Garrik Ryder|Sir Garrik]] of [[House Ryder]]. We found a small inn at dusk. As we ate, a man and a girl entered, wearing hooded cloaks. Our quarry.
-We formulated a plan: [[Theodore Silver|Theo]] and [[Raouen Sanderfell|Raouen]] to confront them, [[Draven Throssenheiser|Draven]] and [[Dharshoon]] at the window, and myself positioned below. The confrontation failed immediately. [[Sir Garrik Ryder|Garrik]], defiant and fast, punched [[Theodore Silver|Theo]]. When I climbed the stairs, he confirmed their identities and pressed a blade to my neck. He did not trust us.
-
-I used the confusion to disengage, but his blade nicked my neck—a potentially fatal wound, but [[Draven Throssenheiser|Draven]] was quickly able to retrieve [[Dharshoon]] to heal me while [[Raouen Sanderfell|Raouen]] helped keep me stable. I understood his distrust. I looked at [[Sophia Grey|Sophia]], and felt a profound kinship with [[Sir Garrik Ryder|Garrik]]. He saw her, a young noble girl, in danger, and broke his sacred fealty to [[William Arden]] to save her. The memory of [[Olivia Arden]] flashed in my mind—[[Godric Arden|Godric]]’s daughter. Were she ever in trouble, I think I know deep down that I would break every oath I held to rescue her. I should have apprehended [[Sir Garrik Ryder|Garrik]], but the truth of his devotion was too strong. I did not have the heart to take him in.
-
-[[Sir Garrik Ryder|Garrik]] and [[Sophia Grey|Sophia]] escaped through the window, onto their horses. We pursued. I shouted out to [[Sir Garrik Ryder|Garrik]], pleading for him to let us take [[Sophia Grey|Sophia]], to avoid violence. [[Sophia Grey|Sophia]], in tears, agreed to come with us. [[Sir Garrik Ryder|Garrik]], honor intact, threw down his sword and surrendered her. I comforted him, vouching for his honor, urging him to come to [[Godric Arden|Godric]]. He declined, worried about the punishment for breaking fealty.
-
-We returned to [[Brightguard]] days later. [[Sophia Grey|Sophia]] was turned over to the guard. [[Sir John Marshall|John Marshall]] congratulated us. I was then called to the King's chambers. I overheard [[Celia Bruce-Arden|Queen Celia]] and [[Godric Arden|Godric]] discussing a "madman" who was half crazed, a fool who washed up from a shipwreck, but whom [[Godric Arden|Godric]] deemed harmless. [[Godric Arden|Godric]] was pleased [[Sophia Grey|Sophia]] was captured but disappointed we did not bring in [[Sir Garrik Ryder|Garrik]]. I explained the situation and asked about the "madman."
-
-We learned that [[Henry Grey]] had successfully recaptured [[Oldport]]. Our mission: deliver terms to [[Henry Grey]]. He will receive his sister only if he swears fealty to [[Godric Arden|Godric]], though he may retain his Kingly title in [[The South|the South]]. As I took my leave and rejoined my comrades, explaining the details of the meeting, a voice, manic and sing-song, echoed through the castle halls: “The red wolves feast on stags in the forest, to burning men cheering in dreadful chorus! I know! I know! Oh yes I know!”
-
-The madman has seen the future, or perhaps the past. I explained the nature of the fool found in the shipwreck. We are now heading back into the heart of the war, carrying a burden of peace and a message that will either save the realm or tear it apart.
 
 
 ## Session 17
