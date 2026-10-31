@@ -13,7 +13,7 @@ automatic-linker-off: true
 
 Northman of Varanor, fighter (Battle Master), played by Jordan
 
-![[Joran Jotunsson portrait.png|300]]
+![[Joran Jotunsson portrait.jpg|300]]
 
 ## [[Elara]]
 

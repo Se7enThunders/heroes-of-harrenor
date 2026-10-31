@@ -13,7 +13,7 @@ aliases:
 ---
 # Joran Jotunsson
 
-![[Joran Jotunsson portrait.png|320]]
+![[Joran Jotunsson portrait.jpg|320]]
 
 **Northman of Varanor, fighter (Battle Master), Jordan**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S0
