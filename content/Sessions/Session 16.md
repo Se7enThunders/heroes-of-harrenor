@@ -6,7 +6,7 @@ session: 16
 played: 2025-11-09
 ---
 
-← [[Session 15]] | [[index|Home]] | [[Joran's Journal#Session 16|Joran's journal entry]] | [[Interlude 16.5]] →
+← [[Interlude 15.5]] | [[index|Home]] | [[Joran's Journal#Session 16|Joran's journal entry]] | [[Session 17]] →
 
 **Quests in play:** [[03 Joran's Father and the Fight for His Soul|Joran's Father and the Fight for His Soul]], [[14 Bring Sophia Home|Bring Sophia Home]], [[15 Avenge House Hay|Avenge House Hay]]
 
@@ -177,4 +177,4 @@ COMBAT (continues)
 > ![[Session 16 art 3.png]]
 
 ---
-← [[Session 15]] | [[index|Home]] | [[Joran's Journal#Session 16|Joran's journal entry]] | [[Interlude 16.5]] →
+← [[Interlude 15.5]] | [[index|Home]] | [[Joran's Journal#Session 16|Joran's journal entry]] | [[Session 17]] →

@@ -66,8 +66,8 @@ automatic-linker-off: true
 | [[Session 13]] | [[Joran's Journal#Session 13\|entry]] |
 | [[Session 14]] | [[Joran's Journal#Session 14\|entry]] |
 | [[Session 15]] | [[Joran's Journal#Session 15\|entry]] |
+| [[Interlude 15.5]] | [[Joran's Journal#Interlude 15.5\|entry]] |
 | [[Session 16]] | [[Joran's Journal#Session 16\|entry]] |
-| [[Interlude 16.5]] | [[Joran's Journal#Interlude 16.5\|entry]] |
 | [[Session 17]] | [[Joran's Journal#Session 17\|entry]] |
 | [[Session 18]] | [[Joran's Journal#Session 18\|entry]] |
 | [[Session 19]] | [[Joran's Journal#Session 19\|entry]] |

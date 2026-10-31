@@ -17,5 +17,5 @@ Bound by vows of penance and chained beneath a [[Na'Buchar]] church; [[Theodore 
 
 ## Appears in
 
-**Session notes:** [[Session 10|S10]], [[Session 11|S11]], [[Session 12|S12]], [[Interlude 16.5|Int. 16.5]]  
-**Joran's journal:** [[Joran's Journal#Session 10|S10]], [[Joran's Journal#Session 11|S11]], [[Joran's Journal#Interlude 16.5|Int. 16.5]]
+**Session notes:** [[Session 10|S10]], [[Session 11|S11]], [[Session 12|S12]], [[Interlude 15.5|Int. 15.5]]  
+**Joran's journal:** [[Joran's Journal#Session 10|S10]], [[Joran's Journal#Session 11|S11]], [[Joran's Journal#Interlude 15.5|Int. 15.5]]

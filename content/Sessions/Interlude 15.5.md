@@ -2,11 +2,11 @@
 tags:
   - "session"
 hh: session
-session: 16.5
+session: 15.5
 written: 2025-11-24
 ---
 
-← [[Session 16]] | [[index|Home]] | [[Joran's Journal#Interlude 16.5|Joran's journal entry]] | [[Session 17]] →
+← [[Session 15]] | [[index|Home]] | [[Joran's Journal#Interlude 15.5|Joran's journal entry]] | [[Session 16]] →
 
 The cold sweat is still drying on my skin. I sit awake, though the morning sun has not yet touched the windows of [[Brightguard]]. I thought I had come home, but the dreams—they follow. They are relentless.
 
@@ -38,4 +38,4 @@ I woke up, tears burning my face. I knelt by my bed. I confessed my origin, my c
 I know now that the war is not just for a throne. It is for my soul. The enemy is in the North, waiting. And he will not stop until he has turned me into the beast he created. I must move. I must prepare. I cannot let that prophecy come true.
 
 ---
-← [[Session 16]] | [[index|Home]] | [[Joran's Journal#Interlude 16.5|Joran's journal entry]] | [[Session 17]] →
+← [[Session 15]] | [[index|Home]] | [[Joran's Journal#Interlude 15.5|Joran's journal entry]] | [[Session 16]] →

@@ -19,5 +19,5 @@ Black armor, black blade, wings of red lightning. Trained dragons for his half-s
 
 ## Appears in
 
-**Session notes:** [[Session 15|S15]], [[Session 16|S16]], [[Interlude 16.5|Int. 16.5]], [[Session 17|S17]]  
-**Joran's journal:** [[Joran's Journal#Session 15|S15]], [[Joran's Journal#Session 16|S16]], [[Joran's Journal#Interlude 16.5|Int. 16.5]], [[Joran's Journal#Session 28|S28]]
+**Session notes:** [[Session 15|S15]], [[Interlude 15.5|Int. 15.5]], [[Session 16|S16]], [[Session 17|S17]]  
+**Joran's journal:** [[Joran's Journal#Session 15|S15]], [[Joran's Journal#Interlude 15.5|Int. 15.5]], [[Joran's Journal#Session 16|S16]], [[Joran's Journal#Session 28|S28]]

@@ -6,7 +6,7 @@ session: 15
 played: 2025-10-19
 ---
 
-← [[Session 14]] | [[index|Home]] | [[Joran's Journal#Session 15|Joran's journal entry]] | [[Session 16]] →
+← [[Session 14]] | [[index|Home]] | [[Joran's Journal#Session 15|Joran's journal entry]] | [[Interlude 15.5]] →
 
 **Quests in play:** [[14 Bring Sophia Home|Bring Sophia Home]], [[15 Avenge House Hay|Avenge House Hay]], [[16 Ring the First Two Bells|Ring the First Two Bells]], [[20 Ring the Third Bell|Ring the Third Bell]]
 
@@ -208,4 +208,4 @@ The battle ensues…
 > ![[Session 15 art 5.mp4]]
 
 ---
-← [[Session 14]] | [[index|Home]] | [[Joran's Journal#Session 15|Joran's journal entry]] | [[Session 16]] →
+← [[Session 14]] | [[index|Home]] | [[Joran's Journal#Session 15|Joran's journal entry]] | [[Interlude 15.5]] →
