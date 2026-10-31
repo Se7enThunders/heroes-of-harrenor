@@ -8,7 +8,6 @@ aliases:
   - "Larad Exodus"
 first-seen: S11
 ---
-# The Larad Exodus
 
 **When:** S11
 

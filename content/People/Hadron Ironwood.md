@@ -9,7 +9,6 @@ group: The Party
 aliases:
   - "Hadron"
 ---
-# Hadron Ironwood
 
 **Half-elf wizard, Ben**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S28

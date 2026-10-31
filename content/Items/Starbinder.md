@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S1
 ---
-# Starbinder
 
 **Where it is:** [[Sir Baylon Stelaris]]  
 **First seen:** S1

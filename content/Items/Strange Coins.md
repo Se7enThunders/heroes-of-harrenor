@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S2
 ---
-# Strange Coins
 
 **Where it is:** [[Joran Jotunsson|Joran]], [[Olivia Arden|Olivia]], and others  
 **First seen:** S2

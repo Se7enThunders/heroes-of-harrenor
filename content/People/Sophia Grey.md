@@ -10,7 +10,6 @@ aliases:
   - "Sophia"
   - "Sophia Gray"
 ---
-# Sophia Grey
 
 **[[Henry Grey|Henry]]'s sister**  
 Status: <span class="st-captive">CAPTIVE</span>, First seen: S0

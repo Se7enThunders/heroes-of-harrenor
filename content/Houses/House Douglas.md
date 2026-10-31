@@ -6,7 +6,6 @@ hh: enemy
 aliases:
   - "Douglases"
 ---
-# House Douglas
 
 **Sigil:** red fox on green
 

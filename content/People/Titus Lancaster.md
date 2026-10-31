@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Titus"
 ---
-# Titus Lancaster
 
 **Head of [[House Lancaster]]; ruthless commander**  
 Status: <span class="st-alive">ALIVE</span>, First seen: Lore

@@ -15,7 +15,6 @@ status: ALIVE
 first-seen: S5
 group: House Grey & the Southern Lords
 ---
-# Lord Callum Douglas
 
 **Lord of [[The Lowlands|the Lowlands]] ([[Red Den]])**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S5

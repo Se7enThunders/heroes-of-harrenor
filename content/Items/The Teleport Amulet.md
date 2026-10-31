@@ -6,7 +6,6 @@ first-seen: S26
 aliases:
   - "Teleport Amulet"
 ---
-# The Teleport Amulet
 
 **Where it is:** Unknown  
 **First seen:** S26

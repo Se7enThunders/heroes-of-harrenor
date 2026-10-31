@@ -10,7 +10,6 @@ sessions: "S13-S16"
 aliases:
   - "Bring Sophia Home"
 ---
-# Bring Sophia Home
 
 **Quest 14** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S13-S16
 

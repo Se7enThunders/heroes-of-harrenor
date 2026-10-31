@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Salim"
 ---
-# Salim al Muqtar
 
 **[[Lord Thomas Baring|Baring]]'s agent**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S8

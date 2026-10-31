@@ -12,7 +12,6 @@ aliases:
   - "Lord Croft"
   - "Croft"
 ---
-# Lord Adam Croft
 
 **[[House Arden|Arden]] vassal lord, [[The Green Isles|Green Isles]]; royal navy commander**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S0

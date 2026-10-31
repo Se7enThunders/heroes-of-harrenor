@@ -9,7 +9,6 @@ group: Seraphyne, the Handmaidens & the North
 aliases:
   - "Almighty"
 ---
-# The Almighty
 
 **The one true God**  
 Status: —, First seen: S8

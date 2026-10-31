@@ -13,7 +13,6 @@ status: ALIVE
 first-seen: S1
 group: House Grey & the Southern Lords
 ---
-# Baylor Stelaris
 
 **[[Sir Baylon Stelaris|Baylon]]'s twin; [[Order of Holy Fire]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S1

@@ -11,7 +11,6 @@ started: "Session 28"
 aliases:
   - "Hold Grimhold Against the 7th Jihad"
 ---
-# Hold Grimhold Against the 7th Jihad
 
 **Quest 23** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-1">BEACON 1</span> · **Since:** Session 28
 

@@ -8,7 +8,6 @@ aliases:
   - "Black Hands"
   - "Black Hand"
 ---
-# The Black Hands
 
 **Stance, status, first seen:** Enemy, active, S12  
 **Signs:** Black garb and good armor; greatswords that burn with fire. When they fall, the fire passes to their leader, who rises again.  

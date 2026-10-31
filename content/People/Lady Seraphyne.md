@@ -12,7 +12,6 @@ status: UNKNOWN
 first-seen: S19
 group: Seraphyne, the Handmaidens & the North
 ---
-# Lady Seraphyne
 
 **sealed servant of [[The Almighty|the Almighty]]**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S19

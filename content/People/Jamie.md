@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S5.5
 group: "House Arden & King Godric's Court"
 ---
-# Jamie
 
 **sellsword captain**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S5.5

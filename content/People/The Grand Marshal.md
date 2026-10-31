@@ -9,7 +9,6 @@ group: "Joran's Bloodline & the Dark Powers"
 aliases:
   - "Grand Marshal"
 ---
-# The Grand Marshal
 
 **[[Telandor]]'s undead commander**  
 Status: <span class="st-dead">DEAD</span>, First seen: S26

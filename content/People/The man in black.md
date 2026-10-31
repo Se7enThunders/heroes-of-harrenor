@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S8
 group: "Ra'Haad & the Blight"
 ---
-# The man in black
 
 **[[Sable Wardens|Sable Warden]] master of [[The black tower|the black tower]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S8

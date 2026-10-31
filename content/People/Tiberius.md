@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S11
 group: Grimhold & Sunwatch
 ---
-# Tiberius
 
 **one-eyed freedman fighter**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S11

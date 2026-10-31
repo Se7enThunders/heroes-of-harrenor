@@ -11,7 +11,6 @@ aliases:
   - "Otto Cromwell"
   - "Lord Cromwell"
 ---
-# Lord Otto Cromwell
 
 **Southron lord**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S19

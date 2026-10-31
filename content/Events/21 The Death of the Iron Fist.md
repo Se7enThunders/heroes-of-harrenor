@@ -7,7 +7,6 @@ aliases:
   - "Death of the Iron Fist"
 first-seen: "Session 27"
 ---
-# The Death of the Iron Fist
 
 **When:** Sessions 27-28
 

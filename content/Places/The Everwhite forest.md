@@ -6,7 +6,6 @@ first-seen: S21
 aliases:
   - "Everwhite forest"
 ---
-# The Everwhite forest
 
 **Forest** in [[Varanor]]  
 **Held by:** --  

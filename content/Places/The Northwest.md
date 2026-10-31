@@ -6,7 +6,6 @@ aliases:
   - "Northwest"
   - "Firemark"
 ---
-# The Northwest
 
 **Region of [[Harrenor]]**
 

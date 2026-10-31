@@ -5,8 +5,6 @@ hh: reference
 automatic-linker-off: true
 ---
 
-# The Party
-
 *Character art from the table. Back to [[index|Home]].*
 
 ## [[Joran Jotunsson]]

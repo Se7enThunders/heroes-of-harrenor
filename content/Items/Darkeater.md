@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S18
 ---
-# Darkeater
 
 **Where it is:** Lost  
 **First seen:** S18

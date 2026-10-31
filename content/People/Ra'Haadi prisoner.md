@@ -8,7 +8,6 @@ first-seen: S19
 group: Minor & Unnamed Faces
 automatic-linker-prevent-linking: true
 ---
-# Ra'Haadi prisoner
 
 **caged raider**  
 Status: <span class="st-dead">DEAD</span>, First seen: S19

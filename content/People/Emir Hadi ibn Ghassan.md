@@ -9,7 +9,6 @@ group: "Ra'Haad & the Blight"
 aliases:
   - "Emir"
 ---
-# Emir Hadi ibn Ghassan
 
 **Emir of [[Na'Buchar]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S8

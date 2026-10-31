@@ -5,7 +5,6 @@ hh: place
 first-seen: S22
 automatic-linker-prevent-linking: true
 ---
-# The mountains
 
 **Mountains** in [[Varanor]]  
 **Held by:** --  

@@ -4,7 +4,6 @@ tags:
 hh: reference
 automatic-linker-off: true
 ---
-# Gazetteer
 
 *Every region, city, ruin and road the party has heard of or walked, from the Green Isles to the Blight.*  
 *Updated: After Session 30 (Sanctuary). Back to [[index|Home]].*

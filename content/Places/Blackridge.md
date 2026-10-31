@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: Lore
 ---
-# Blackridge
 
 **Fortress** in [[The West]]  
 **Held by:** [[Titus Lancaster|Titus]]  

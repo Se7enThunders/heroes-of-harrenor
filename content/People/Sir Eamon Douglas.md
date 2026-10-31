@@ -11,7 +11,6 @@ status: ALIVE
 first-seen: S14
 group: House Grey & the Southern Lords
 ---
-# Sir Eamon Douglas
 
 **[[Lord Callum Douglas|Douglas]] hostage**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S14

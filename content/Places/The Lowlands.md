@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Lowlands"
 ---
-# The Lowlands
 
 **Region of [[Harrenor]]**
 

@@ -7,7 +7,6 @@ aliases:
   - "The Fall of Telandor"
   - "Fall of Telandor"
 ---
-# The Fall of Telandor
 
 **When:** ~3,000 years ago
 

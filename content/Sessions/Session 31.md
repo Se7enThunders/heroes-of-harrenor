@@ -5,7 +5,6 @@ hh: session
 session: 31
 played:
 ---
-# Session 31
 
 ← [[Session 30]] | [[index|Home]] | [[Joran's Journal#Session 31|Joran's journal entry]]
 

@@ -6,7 +6,6 @@ first-seen: S23
 aliases:
   - "Old Church Map"
 ---
-# The Old Church Map
 
 **Where it is:** [[Joran Jotunsson|Joran]]  
 **First seen:** S23

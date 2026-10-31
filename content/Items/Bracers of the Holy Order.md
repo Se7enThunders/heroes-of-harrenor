@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S5
 ---
-# Bracers of the Holy Order
 
 **Where it is:** [[Joran Jotunsson|Joran]]  
 **First seen:** S5

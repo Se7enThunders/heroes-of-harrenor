@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S9
 group: "Ra'Haad & the Blight"
 ---
-# The mortician
 
 **[[The black tower|black tower]] bloodletter**  
 Status: <span class="st-dead">DEAD</span>, First seen: S9

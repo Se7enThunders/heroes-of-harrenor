@@ -7,7 +7,6 @@ aliases:
   - "Battle of Stoneheath"
 first-seen: S3
 ---
-# The Battle of Stoneheath
 
 **When:** S3
 

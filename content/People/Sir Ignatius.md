@@ -9,7 +9,6 @@ group: "House Arden & King Godric's Court"
 aliases:
   - "Ignatius"
 ---
-# Sir Ignatius
 
 **Knight of [[Order of Holy Fire|the Order]] of [[Order of Holy Fire|Holy Fire]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S14

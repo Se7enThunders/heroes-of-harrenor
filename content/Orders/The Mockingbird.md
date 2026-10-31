@@ -7,7 +7,6 @@ group: Spies & crime
 aliases:
   - "Mockingbird"
 ---
-# The Mockingbird
 
 **Stance, status, first seen:** enemy, S6  
 **Signs:** silver mockingbird pin/emblem/signet; coded messages e.g. "Winter has gone; the hunt has begun."  

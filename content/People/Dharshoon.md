@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S1
 group: The Party
 ---
-# Dharshoon
 
 ![[Dharshoon portrait.png|260]]
 

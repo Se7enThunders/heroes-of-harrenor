@@ -5,7 +5,6 @@ tags:
 hh: enemy
 group: Mercenaries & forces
 ---
-# Varanoran raiders
 
 **Stance, status, first seen:** Enemy, active, S5  
 **Signs:** Northmen.  

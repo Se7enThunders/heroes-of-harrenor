@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S9
 group: "Ra'Haad & the Blight"
 ---
-# Casius
 
 **rescued elf**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S9

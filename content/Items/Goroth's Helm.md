@@ -6,7 +6,6 @@ aliases:
   - "Goroth's helm"
 first-seen: S16
 ---
-# Goroth's Helm
 
 **Where it is:** Swapped for the [[The Winged Helm|winged helm]] (S24)  
 **First seen:** S16

@@ -7,7 +7,6 @@ aliases:
   - "Arden"
   - "Ardens"
 ---
-# House Arden
 
 **Sigil:** lion's head, now with [[The Almighty|the Almighty]]'s flame above it
 

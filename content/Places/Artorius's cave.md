@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S21
 ---
-# Artorius's cave
 
 **Cave** in [[Varanor]]  
 **Held by:** --  

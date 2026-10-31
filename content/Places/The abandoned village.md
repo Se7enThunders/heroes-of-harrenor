@@ -5,7 +5,6 @@ hh: place
 first-seen: S29
 automatic-linker-prevent-linking: true
 ---
-# The abandoned village
 
 **Village** in [[Varanor]]  
 **Held by:** Abandoned  

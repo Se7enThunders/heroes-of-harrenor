@@ -8,7 +8,6 @@ aliases:
   - "Sanctuary Betrayal"
 first-seen: S30
 ---
-# The Sanctuary Betrayal
 
 **When:** S30
 

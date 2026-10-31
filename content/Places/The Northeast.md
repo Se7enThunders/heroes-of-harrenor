@@ -6,7 +6,6 @@ aliases:
   - "Northeast"
   - "Frostmark"
 ---
-# The Northeast
 
 **Region of [[Harrenor]]**
 

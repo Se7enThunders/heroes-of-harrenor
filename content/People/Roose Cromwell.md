@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "Roose"
 ---
-# Roose Cromwell
 
 **[[Lord Otto Cromwell|Otto]]'s son**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S30

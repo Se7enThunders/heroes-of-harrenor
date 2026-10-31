@@ -10,7 +10,6 @@ status: ALIVE
 first-seen: S0
 group: "House Arden & King Godric's Court"
 ---
-# Lord William Marshall
 
 **[[House Arden|Arden]] lord; [[Sir John Marshall|Sir John]]'s father**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S0

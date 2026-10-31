@@ -11,7 +11,6 @@ started: "Session 29"
 aliases:
   - "Find Draven's Sister and Relight the Flame"
 ---
-# Find Draven's Sister and Relight the Flame
 
 **Quest 26** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-3">BEACON 3</span> · **Since:** Session 29
 

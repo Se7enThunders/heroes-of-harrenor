@@ -9,7 +9,6 @@ group: "House Arden & King Godric's Court"
 aliases:
   - "George"
 ---
-# George Arden
 
 **youngest brother**  
 Status: <span class="st-dead">DEAD</span>, First seen: Lore

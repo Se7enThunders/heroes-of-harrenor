@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S5.5
 ---
-# Kingsmont
 
 **City** in [[The Gilded Lands]]  
 **Held by:** [[William Arden|William]] & [[House Lancaster|Lancaster]]  

@@ -11,7 +11,6 @@ status: ALIVE
 first-seen: S5.5
 group: "House Arden & King Godric's Court"
 ---
-# Sir John Marshall
 
 **[[House Arden|Arden]] knight sworn to [[Godric Arden|Godric]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S5.5

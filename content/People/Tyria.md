@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S16
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# Tyria
 
 **[[Goroth]]'s mother**  
 Status: <span class="st-dead">DEAD</span>, First seen: S16

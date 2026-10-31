@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S17
 ---
-# Highwaymen's road
 
 **Road** in [[The South]]  
 **Held by:** --  

@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S12
 ---
-# Blackbear Inn
 
 **Inn** in [[The South]]  
 **Held by:** [[Lord Thomas Baring|Lord Baring]] (S13)  

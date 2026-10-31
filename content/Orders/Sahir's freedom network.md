@@ -4,7 +4,6 @@ tags:
 hh: order
 group: Spies & crime
 ---
-# Sahir's freedom network
 
 **Stance, status, first seen:** ally, broken up, S6  
 **Signs:** fake slave sales; hidden town  

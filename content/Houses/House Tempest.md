@@ -7,7 +7,6 @@ aliases:
   - "Tempest"
   - "Tempests"
 ---
-# House Tempest
 
 **Side:** [[Godric Arden|King Godric]]'s crown  
 **Seat, head, sigil:** [[Oldport]], [[Lord Irwin Tempest]]  

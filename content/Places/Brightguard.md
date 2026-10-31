@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S0
 ---
-# Brightguard
 
 **Castle & town** in [[The Swordlands]]  
 **Held by:** [[Godric Arden|King Godric]]  

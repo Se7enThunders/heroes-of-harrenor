@@ -10,7 +10,6 @@ sessions: "S4"
 aliases:
   - "Stop the Western Cultists"
 ---
-# Stop the Western Cultists
 
 **Quest 5** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S4
 

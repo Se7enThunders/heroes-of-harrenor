@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S15
 group: Seraphyne, the Handmaidens & the North
 ---
-# Beladishpi
 
 **[[Dharshoon]]'s family nature goddess**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S15

@@ -10,7 +10,6 @@ sessions: "S10"
 aliases:
   - "Free Beatrice and Therond"
 ---
-# Free Beatrice and Therond
 
 **Quest 11** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S10
 

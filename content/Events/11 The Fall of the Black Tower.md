@@ -7,7 +7,6 @@ aliases:
   - "Fall of the Black Tower"
 first-seen: "Session 8"
 ---
-# The Fall of the Black Tower
 
 **When:** Sessions 8-9
 

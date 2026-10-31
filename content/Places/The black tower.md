@@ -6,7 +6,6 @@ first-seen: S8
 aliases:
   - "Black Tower"
 ---
-# The black tower
 
 **Sorcerer's tower** in [[Ra'Haad]]  
 **Held by:** Destroyed hold of the [[Sable Wardens]]  

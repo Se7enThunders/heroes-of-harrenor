@@ -7,7 +7,6 @@ aliases:
   - "Black Stags"
   - "Black Stag"
 ---
-# The Black Stags
 
 **Stance, status, first seen:** unknown, S16  
 **Signs:** [[The Black Stag Pendant|black stag pendant]]/amulet  

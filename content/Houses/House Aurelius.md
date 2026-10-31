@@ -8,7 +8,6 @@ aliases:
   - "Arelius"
   - "House Arelius"
 ---
-# House Aurelius
 
 **Sigil:** gold eagle wreathed in a sun, red field
 

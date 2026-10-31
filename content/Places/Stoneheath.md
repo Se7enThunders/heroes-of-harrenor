@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S1
 ---
-# Stoneheath
 
 **Walled town** in [[The Lowlands]]  
 **Held by:** [[House Grey|Greys]] ([[Audrey Grey]] as regent)  

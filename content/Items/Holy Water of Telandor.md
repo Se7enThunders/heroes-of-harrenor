@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S24
 ---
-# Holy Water of Telandor
 
 **Where it is:** [[Telandor]]'s hilltop church  
 **First seen:** S24

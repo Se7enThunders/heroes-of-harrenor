@@ -11,7 +11,6 @@ started: "Session 22"
 aliases:
   - "Ring the Third Bell"
 ---
-# Ring the Third Bell
 
 **Quest 20** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-3">BEACON 3</span> · **Since:** Session 22
 

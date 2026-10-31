@@ -10,7 +10,6 @@ sessions: "S5.5"
 aliases:
   - "Relieve Kingsmont"
 ---
-# Relieve Kingsmont
 
 **Quest 6** · **Status:** <span class="st-dead">FAILED</span> · **Sessions:** S5.5
 

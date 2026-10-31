@@ -9,7 +9,6 @@ group: "Joran's Bloodline & the Dark Powers"
 aliases:
   - "Grand Captain"
 ---
-# The Grand Captain
 
 **[[Telandor]] knight**  
 Status: <span class="st-dead">DEAD</span>, First seen: S24

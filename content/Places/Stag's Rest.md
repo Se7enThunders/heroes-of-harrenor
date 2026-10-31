@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S6
 ---
-# Stag's Rest
 
 **City** in [[The South]]  
 **Held by:** [[House Grey]]  

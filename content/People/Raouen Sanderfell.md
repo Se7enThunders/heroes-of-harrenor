@@ -13,7 +13,6 @@ status: CAPTIVE
 first-seen: S1
 group: The Party
 ---
-# Raouen Sanderfell
 
 ![[Raouen portrait.jpeg|260]]
 

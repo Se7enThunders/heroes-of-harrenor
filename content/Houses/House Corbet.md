@@ -6,7 +6,6 @@ hh: enemy
 aliases:
   - "Corbet"
 ---
-# House Corbet
 
 **Side:** [[William Arden|King William]]'s crown  
 **Seat, head, sigil:** not stated  

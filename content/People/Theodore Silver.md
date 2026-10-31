@@ -11,7 +11,6 @@ status: CAPTIVE
 first-seen: S1
 group: The Party
 ---
-# Theodore Silver
 
 ![[Theodore Silver portrait.jpeg|260]]
 

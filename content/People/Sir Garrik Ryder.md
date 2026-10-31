@@ -10,7 +10,6 @@ aliases:
   - "Garrik"
   - "Sir Garrik"
 ---
-# Sir Garrik Ryder
 
 **rogue [[The King's Guard|kingsguard]] of [[House Ryder]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S14

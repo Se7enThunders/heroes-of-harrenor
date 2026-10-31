@@ -13,7 +13,6 @@ aliases:
   - "Lord Barring"
   - "Thomas Baring"
 ---
-# Lord Thomas Baring
 
 **[[House Lancaster|Lancaster]] spymaster**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S6

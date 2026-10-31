@@ -11,7 +11,6 @@ started: "Session 23"
 aliases:
   - "Ahmed's Plate Mail"
 ---
-# Ahmed's Plate Mail
 
 **Quest 21** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-5">BEACON 5</span> · **Since:** Session 23
 

@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S0
 group: The Party
 ---
-# Elara
 
 ![[Elara portrait.png|260]]
 

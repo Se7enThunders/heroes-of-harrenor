@@ -11,7 +11,6 @@ started: "Session 22"
 aliases:
   - "What the Black Ring and Palantir Unlock"
 ---
-# What the Black Ring and Palantir Unlock
 
 **Quest 19** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-5">BEACON 5</span> · **Since:** Session 22
 

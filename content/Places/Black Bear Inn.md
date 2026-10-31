@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S30
 ---
-# Black Bear Inn
 
 **Inn**  
 **Held by:** [[House Grey|Grey]] army (then)  

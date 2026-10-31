@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S15
 ---
-# Green Harbor
 
 **Port** in [[The Gilded Lands]]  
 **Held by:** Lancaster-held  

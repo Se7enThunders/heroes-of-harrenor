@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Jean"
 ---
-# Jean Sanderfell
 
 **[[Raouen Sanderfell|Raouen]]'s father; [[House Lancaster|Lancaster]] knight & bannerman**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S2

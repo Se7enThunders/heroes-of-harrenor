@@ -5,7 +5,6 @@ hh: place
 first-seen: S6
 automatic-linker-prevent-linking: true
 ---
-# Border towns
 
 **Towns** in [[Ra'Haad]]  
 **Held by:** --  

@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S27
 group: Seraphyne, the Handmaidens & the North
 ---
-# The Iron Fist's captive
 
 **[[Handmaidens of Seraphyne|Handmaiden]] of [[Lady Seraphyne|Seraphyne]], held in [[Telandor]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S27

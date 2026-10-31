@@ -7,7 +7,6 @@ aliases:
   - "Rampart"
 first-seen: S0
 ---
-# The Rampart
 
 **Fortress** in [[The Green Isles]]  
 **Held by:** [[Godric Arden|Godric]]  

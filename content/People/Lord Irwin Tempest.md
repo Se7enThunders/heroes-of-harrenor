@@ -11,7 +11,6 @@ aliases:
   - "Irwin Tempest"
   - "Lord Tempest"
 ---
-# Lord Irwin Tempest
 
 **Lord of [[Oldport]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S13

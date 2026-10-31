@@ -3,7 +3,6 @@ tags:
   - "place"
 hh: place
 ---
-# The South
 
 **Region of [[Harrenor]]**
 

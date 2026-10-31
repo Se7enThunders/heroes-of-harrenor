@@ -7,7 +7,6 @@ aliases:
   - "Grey-Arden alliance"
 first-seen: "Session 20"
 ---
-# The Grey-Arden Alliance
 
 **When:** Session 20
 

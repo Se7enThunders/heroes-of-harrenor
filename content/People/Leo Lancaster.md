@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Leo"
 ---
-# Leo Lancaster
 
 **[[House Lancaster|Lancaster]] raider**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S5

@@ -7,7 +7,6 @@ aliases:
   - "Sanderfell"
   - "Sanderfells"
 ---
-# House Sanderfell
 
 **Side:** [[William Arden|King William]]'s crown  
 **Seat, head, sigil:** [[The West|the West]], [[Jean Sanderfell]]  

@@ -7,7 +7,6 @@ aliases:
   - "Lancaster"
   - "Lancasters"
 ---
-# House Lancaster
 
 **Sigil:** not described
 

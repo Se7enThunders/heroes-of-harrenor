@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "Meredith"
 ---
-# Meredith Douglas
 
 **[[Lord Callum Douglas|Douglas]] daughter**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S17

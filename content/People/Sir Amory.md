@@ -9,7 +9,6 @@ group: "House Arden & King Godric's Court"
 aliases:
   - "Amory"
 ---
-# Sir Amory
 
 **[[House Arden|Arden]] knight**  
 Status: <span class="st-dead">DEAD</span>, First seen: S14

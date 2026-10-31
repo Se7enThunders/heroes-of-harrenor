@@ -10,7 +10,6 @@ sessions: "S7"
 aliases:
   - "Hunt the Ashfall Wyvern"
 ---
-# Hunt the Ashfall Wyvern
 
 **Quest 8** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S7
 

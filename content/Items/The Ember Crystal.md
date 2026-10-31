@@ -6,7 +6,6 @@ first-seen: S25
 aliases:
   - "Ember Crystal"
 ---
-# The Ember Crystal
 
 **Where it is:** [[Godfrey Arden|Godfrey]] the Squire  
 **First seen:** S25

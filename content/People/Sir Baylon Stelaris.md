@@ -16,7 +16,6 @@ status: ALIVE
 first-seen: S1
 group: House Grey & the Southern Lords
 ---
-# Sir Baylon Stelaris
 
 **southern knight; wielder of [[Starbinder]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S1

@@ -7,7 +7,6 @@ aliases:
   - "Calamity"
 first-seen: Lore
 ---
-# The Calamity
 
 **When:** Lore
 

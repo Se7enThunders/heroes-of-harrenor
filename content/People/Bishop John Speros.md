@@ -10,7 +10,6 @@ aliases:
   - "Speros"
   - "John Speros"
 ---
-# Bishop John Speros
 
 **Bishop of [[Grimhold]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S12

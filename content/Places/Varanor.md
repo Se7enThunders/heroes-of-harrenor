@@ -3,7 +3,6 @@ tags:
   - "place"
 hh: place
 ---
-# Varanor
 
 **Region of [[Harrenor]]**
 

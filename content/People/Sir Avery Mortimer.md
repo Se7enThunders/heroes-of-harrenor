@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Avery Mortimer"
 ---
-# Sir Avery Mortimer
 
 **[[William Arden|William]]'s alleged father**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S0

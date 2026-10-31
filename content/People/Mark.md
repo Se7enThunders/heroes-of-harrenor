@@ -8,7 +8,6 @@ first-seen: S2
 group: House Grey & the Southern Lords
 automatic-linker-prevent-linking: true
 ---
-# Mark
 
 **[[House Cromwell|Cromwell]] conscript & deserter**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S2

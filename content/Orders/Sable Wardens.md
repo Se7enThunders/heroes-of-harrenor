@@ -8,7 +8,6 @@ aliases:
   - "Sable Warden"
   - "Wardens"
 ---
-# Sable Wardens
 
 **Stance, status, first seen:** enemy, S8  
 **Signs:** black clothing; wrist tattoo of an eye w/ star above & flame below; black stone towers & black crystal orbs  

@@ -7,7 +7,6 @@ group: Faiths & holy orders
 aliases:
   - "Sahirist"
 ---
-# Sahirism
 
 **Stance, status, first seen:** enemy, active, S6  
 **Signs:** crucifixions for those who won't pay the jizya  

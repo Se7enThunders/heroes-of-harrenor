@@ -9,7 +9,6 @@ group: Grimhold & Sunwatch
 aliases:
   - "Lord Titus"
 ---
-# Titus Aurelius
 
 **ancient lord of extinct [[House Aurelius]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S18

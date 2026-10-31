@@ -6,7 +6,6 @@ first-seen: S9
 aliases:
   - "Blank Scrolls"
 ---
-# The Blank Scrolls
 
 **Where it is:** Unknown (nobody wrote down who carried them)  
 **First seen:** S9

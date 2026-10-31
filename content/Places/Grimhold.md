@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S6
 ---
-# Grimhold
 
 **Border fortress** in [[The South]]  
 **Held by:** [[House Grimston]]  

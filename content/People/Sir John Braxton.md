@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "John Braxton"
 ---
-# Sir John Braxton
 
 **Knight of [[House Cromwell]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S19

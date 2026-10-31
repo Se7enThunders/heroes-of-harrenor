@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S15
 group: Seraphyne, the Handmaidens & the North
 ---
-# Anri
 
 **first [[Handmaidens of Seraphyne|handmaiden]] of [[Lady Seraphyne|Seraphyne]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S15

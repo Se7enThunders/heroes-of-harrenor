@@ -6,7 +6,6 @@ first-seen: S13
 aliases:
   - "Sending Stone"
 ---
-# The Sending Stone
 
 **Where it is:** [[Brutus]] holds one; [[Raouen Sanderfell|Raouen]] carried the other  
 **First seen:** S13

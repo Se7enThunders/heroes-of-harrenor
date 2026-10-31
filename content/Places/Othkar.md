@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Eshan"
 ---
-# Othkar
 
 **Region of [[Harrenor]]**
 

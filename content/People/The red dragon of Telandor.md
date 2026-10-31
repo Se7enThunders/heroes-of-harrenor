@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S25
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# The red dragon of Telandor
 
 **blackened, manic red dragon**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S25

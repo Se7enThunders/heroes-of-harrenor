@@ -8,7 +8,6 @@ first-seen: S1
 group: Minor & Unnamed Faces
 automatic-linker-prevent-linking: true
 ---
-# The farmer
 
 **[[The Lowlands|Lowlands]] homesteader**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S1

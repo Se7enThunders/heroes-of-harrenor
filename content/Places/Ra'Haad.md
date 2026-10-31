@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Ra'haad"
 ---
-# Ra'Haad
 
 **Region of [[Harrenor]]**
 

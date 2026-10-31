@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S0
 group: "House Arden & King Godric's Court"
 ---
-# Gerrit
 
 **loyal [[House Arden|Arden]] veteran**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S0

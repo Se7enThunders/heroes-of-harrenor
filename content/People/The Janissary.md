@@ -9,7 +9,6 @@ group: "Joran's Bloodline & the Dark Powers"
 aliases:
   - "Janissary"
 ---
-# The Janissary
 
 **[[The bounty hunter|bounty hunter]]'s man**  
 Status: <span class="st-captive">CAPTIVE</span>, First seen: S20

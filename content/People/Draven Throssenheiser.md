@@ -9,7 +9,6 @@ group: The Party
 aliases:
   - "Draven"
 ---
-# Draven Throssenheiser
 
 ![[Draven Throssenheiser portrait.jpeg|260]]
 

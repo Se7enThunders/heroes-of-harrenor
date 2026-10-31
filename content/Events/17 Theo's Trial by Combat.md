@@ -6,7 +6,6 @@ first-seen: S19
 aliases:
   - "Theo's Trial by Combat"
 ---
-# Theo's Trial by Combat
 
 **When:** S19
 

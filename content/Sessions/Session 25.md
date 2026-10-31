@@ -5,7 +5,6 @@ hh: session
 session: 25
 played: 2026-06-14
 ---
-# Session 25
 
 ← [[Session 24]] | [[index|Home]] | [[Joran's Journal#Session 25|Joran's journal entry]] | [[Session 26]] →
 

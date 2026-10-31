@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S20
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# The bounty hunter
 
 **hunter with a price on [[Draven Throssenheiser|Draven]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S20

@@ -7,7 +7,6 @@ aliases:
   - "Handmaiden"
   - "Handmaidens"
 ---
-# Handmaidens of Seraphyne
 
 **Stance, status, first seen:** ally, scattered, S15  
 **Signs:** each carries/guards a [[The Kilns|kiln]] (half-sphere holding an ember of [[The Almighty|the Almighty]]'s fire); appear near the sacred bells  

@@ -10,7 +10,6 @@ aliases:
   - "Willis Braxton"
   - "Sir Braxton"
 ---
-# Sir Willis Braxton
 
 **castle guard**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S0

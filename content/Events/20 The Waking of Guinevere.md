@@ -7,7 +7,6 @@ aliases:
   - "Waking of Guinevere"
 first-seen: "Session 24"
 ---
-# The Waking of Guinevere
 
 **When:** Session 24
 

@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S5
 ---
-# Neutral ground outside Stoneheath
 
 **Camp** in [[The Lowlands]]  
 **Held by:** --  

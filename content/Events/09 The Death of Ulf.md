@@ -7,7 +7,6 @@ aliases:
   - "Ulf's death"
 first-seen: "Session 5"
 ---
-# The Death of Ulf
 
 **When:** Session 5
 

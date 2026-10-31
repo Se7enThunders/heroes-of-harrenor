@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S3
 ---
-# Flamebinder
 
 **Where it is:** Lost  
 **First seen:** S3

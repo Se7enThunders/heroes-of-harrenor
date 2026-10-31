@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Blight"
 ---
-# The Blight
 
 **Region of [[Harrenor]]**
 

@@ -9,7 +9,6 @@ status: DEAD
 first-seen: S15
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# Goroth
 
 **dark knight & dragon tamer**  
 Status: <span class="st-dead">DEAD</span>, First seen: S15

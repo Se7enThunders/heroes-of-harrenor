@@ -9,7 +9,6 @@ group: "Ra'Haad & the Blight"
 aliases:
   - "Sahir"
 ---
-# Sahir Ebon'Sayid
 
 **noble ex-slaver**  
 Status: <span class="st-dead">DEAD</span>, First seen: S6

@@ -10,7 +10,6 @@ status: DEAD
 first-seen: S27
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# The Iron Fist
 
 **[[Joran Jotunsson|Joran]]'s half-brother**  
 Status: <span class="st-dead">DEAD</span>, First seen: S27

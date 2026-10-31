@@ -6,7 +6,6 @@ hh: ally
 aliases:
   - "Silvers"
 ---
-# House Silver
 
 **Side:** [[Godric Arden|King Godric]]'s crown  
 **Seat, head, sigil:** [[Oldport]], [[Matthew Silver]]  

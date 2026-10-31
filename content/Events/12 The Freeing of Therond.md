@@ -7,7 +7,6 @@ aliases:
   - "Freeing of Therond"
 first-seen: "Session 10"
 ---
-# The Freeing of Therond
 
 **When:** Session 10
 

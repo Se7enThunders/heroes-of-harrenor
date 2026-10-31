@@ -10,7 +10,6 @@ aliases:
   - "Balon's squire"
   - "Baylon's squire"
 ---
-# Godfrey the Squire
 
 **Baylon's squire**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S23

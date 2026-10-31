@@ -6,7 +6,6 @@ group: Faiths & holy orders
 aliases:
   - "Watchers"
 ---
-# The Watchers
 
 **Stance, status, first seen:** Unknown, unknown, S26  
 **Signs:** A hooded archer by an [[Everwhite Trees|Everwhite tree]].  

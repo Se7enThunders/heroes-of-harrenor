@@ -10,7 +10,6 @@ sessions: "S15-S22"
 aliases:
   - "Ring the First Two Bells"
 ---
-# Ring the First Two Bells
 
 **Quest 16** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S15-S22
 

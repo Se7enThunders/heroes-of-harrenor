@@ -7,7 +7,6 @@ aliases:
   - "Everwhite Wardrobe"
 first-seen: S18
 ---
-# The Everwhite Wardrobe
 
 **Where it is:** [[Sunwatch]], master's chambers  
 **First seen:** S18

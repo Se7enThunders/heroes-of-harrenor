@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Green Isles"
 ---
-# The Green Isles
 
 **Region of [[Harrenor]]**
 

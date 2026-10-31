@@ -10,7 +10,6 @@ sessions: "S19"
 aliases:
   - "Win Theo's Trial by Combat"
 ---
-# Win Theo's Trial by Combat
 
 **Quest 18** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S19
 

@@ -7,7 +7,6 @@ aliases:
   - "Winged Helm"
 first-seen: S24
 ---
-# The Winged Helm
 
 **Where it is:** [[Joran Jotunsson|Joran]]  
 **First seen:** S24

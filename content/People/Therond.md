@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S10
 group: "Ra'Haad & the Blight"
 ---
-# Therond
 
 **ancient dragon**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S10

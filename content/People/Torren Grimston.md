@@ -10,7 +10,6 @@ status: ALIVE
 first-seen: S6
 group: Grimhold & Sunwatch
 ---
-# Torren Grimston
 
 **one-eyed warrior of [[Grimhold]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S6

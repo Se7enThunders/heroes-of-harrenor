@@ -8,7 +8,6 @@ aliases:
   - "Ra'Haadi"
   - "Ra'haadi"
 ---
-# Ra'Haadi forces
 
 **Stance, status, first seen:** Enemy, massing, S6  
 **Signs:** Scimitars, mounted archers, heavy cataphracts, Janissaries, northman-like berserkers.  

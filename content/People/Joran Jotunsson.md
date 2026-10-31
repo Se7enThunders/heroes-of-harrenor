@@ -11,7 +11,6 @@ aliases:
   - "Jotunsson"
   - "Joran Jotunson"
 ---
-# Joran Jotunsson
 
 ![[Joran Jotunsson portrait.jpg|320]]
 

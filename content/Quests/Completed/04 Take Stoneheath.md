@@ -10,7 +10,6 @@ sessions: "S3-S4"
 aliases:
   - "Take Stoneheath"
 ---
-# Take Stoneheath
 
 **Quest 4** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S3-S4
 

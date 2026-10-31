@@ -7,7 +7,6 @@ aliases:
   - "Retaking of Brightguard"
 first-seen: "Session 0"
 ---
-# The Retaking of Brightguard
 
 **When:** Session 0
 

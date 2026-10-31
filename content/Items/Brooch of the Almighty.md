@@ -6,7 +6,6 @@ aliases:
   - "Broach of the Almighty"
 first-seen: S15
 ---
-# Brooch of the Almighty
 
 **Where it is:** [[Joran Jotunsson|Joran]]  
 **First seen:** S15

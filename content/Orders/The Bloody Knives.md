@@ -7,7 +7,6 @@ group: Spies & crime
 aliases:
   - "Bloody Knives"
 ---
-# The Bloody Knives
 
 **Stance, status, first seen:** Enemy, active, S5  
 **Signs:** Unknown so far; recognized by their cargo.  

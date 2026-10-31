@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S29
 group: Seraphyne, the Handmaidens & the North
 ---
-# Draven's sister
 
 **unnamed [[Handmaidens of Seraphyne|handmaiden]]**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S29

@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S15
 ---
-# Bell temple of the Swordlands
 
 **Ruined temple** in [[The Swordlands]]  
 **Held by:** Cleansed  

@@ -9,7 +9,6 @@ group: "House Arden & King Godric's Court"
 aliases:
   - "King Godfrey"
 ---
-# Godfrey Arden
 
 **former King of [[Harrenor]]; Warden of [[Brightguard]] & [[The Stormlands|Stormlands]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: Lore

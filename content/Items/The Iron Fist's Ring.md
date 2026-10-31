@@ -7,7 +7,6 @@ aliases:
   - "Iron Fist's Ring"
 first-seen: S28
 ---
-# The Iron Fist's Ring
 
 **Where it is:** [[Hadron Ironwood|Hadron]]  
 **First seen:** S28

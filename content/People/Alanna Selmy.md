@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Alanna"
 ---
-# Alanna Selmy
 
 **[[Raouen Sanderfell|Raouen]]'s sister**  
 Status: <span class="st-captive">CAPTIVE</span>, First seen: S12

@@ -15,7 +15,6 @@ status: ALIVE
 first-seen: S4
 group: House Grey & the Southern Lords
 ---
-# Audrey Grey
 
 **[[Henry Grey|Henry]]'s mother; [[Edward Grey]]'s widow**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S4

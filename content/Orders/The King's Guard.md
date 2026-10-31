@@ -6,7 +6,6 @@ group: Mercenaries & forces
 aliases:
   - "King's Guard"
 ---
-# The King's Guard
 
 **Stance, status, first seen:** Ally, active, S0  
 **Signs:** [[Godric Arden|Godric]]'s household knights.  

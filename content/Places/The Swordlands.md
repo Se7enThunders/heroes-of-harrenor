@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Swordlands"
 ---
-# The Swordlands
 
 **Region of [[Harrenor]]**
 

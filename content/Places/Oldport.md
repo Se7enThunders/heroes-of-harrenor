@@ -9,7 +9,6 @@ aliases:
   - "Stormbreaker Castle"
   - "Grand Cathedral"
 ---
-# Oldport
 
 **Port city** in [[The South]]  
 **Held by:** [[House Tempest]]  

@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S22
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# The undead knight
 
 **leader of the [[Varanor]] bell-temple dead**  
 Status: <span class="st-dead">DEAD</span>, First seen: S22

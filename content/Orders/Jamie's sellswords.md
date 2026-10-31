@@ -4,7 +4,6 @@ tags:
 hh: order
 group: Mercenaries & forces
 ---
-# Jamie's sellswords
 
 **Stance, status, first seen:** It's complicated, active, S5.5  
 **Signs:** Ten hired swords.  

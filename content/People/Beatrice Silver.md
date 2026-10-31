@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "Beatrice"
 ---
-# Beatrice Silver
 
 **[[Theodore Silver|Theo]]'s sister**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S10

@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S6
 ---
-# The green river
 
 **River border** in [[The Blight]]  
 **Held by:** --  

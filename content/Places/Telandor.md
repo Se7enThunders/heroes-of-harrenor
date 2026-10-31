@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S24
 ---
-# Telandor
 
 **Ruined city** in [[The Blight]]  
 **Held by:** The red dragon; the dead  

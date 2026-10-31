@@ -4,7 +4,6 @@ tags:
   - "ally"
 hh: ally
 ---
-# House of the Northwest
 
 **Side:** Unknown  
 **Seat, head, sigil:** [[The Northwest|Firemark]]  

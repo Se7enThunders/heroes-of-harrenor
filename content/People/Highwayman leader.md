@@ -7,7 +7,6 @@ status: CAPTIVE
 first-seen: S17
 group: Minor & Unnamed Faces
 ---
-# Highwayman leader
 
 **bandit wearing [[House Croft]]'s sigil**  
 Status: <span class="st-captive">CAPTIVE</span>, First seen: S17

@@ -7,7 +7,6 @@ aliases:
   - "7th Jihad"
 first-seen: S28
 ---
-# The 7th Jihad
 
 **When:** S28
 

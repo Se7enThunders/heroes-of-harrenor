@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S2
 group: Minor & Unnamed Faces
 ---
-# The old trader
 
 **peddler with donkey cart**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S2

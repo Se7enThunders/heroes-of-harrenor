@@ -10,7 +10,6 @@ sessions: "S15-S16"
 aliases:
   - "Avenge House Hay"
 ---
-# Avenge House Hay
 
 **Quest 15** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S15-S16
 

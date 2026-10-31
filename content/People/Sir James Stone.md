@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "James Stone"
 ---
-# Sir James Stone
 
 **twin knight holding [[Stoneheath]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S3

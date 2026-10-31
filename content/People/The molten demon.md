@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S24
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# The molten demon
 
 **[[Telandor]]'s demon**  
 Status: <span class="st-dead">DEAD</span>, First seen: S24

@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "Allen Tempest"
 ---
-# Sir Allen Tempest
 
 **[[Lord Irwin Tempest|Irwin]]'s elder son**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S13

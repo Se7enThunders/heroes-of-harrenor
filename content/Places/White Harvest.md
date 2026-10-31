@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S5.5
 ---
-# White Harvest
 
 **Town** in [[The Heartlands]]  
 **Held by:** Lancaster-leaning  

@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S4
 ---
-# The cult temple
 
 **Ruin** in [[The Lowlands]]  
 **Held by:** Destroyed  

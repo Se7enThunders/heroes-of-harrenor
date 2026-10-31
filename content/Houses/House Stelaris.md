@@ -7,7 +7,6 @@ aliases:
   - "Stelaris"
   - "Stellaris"
 ---
-# House Stelaris
 
 **Sigil:** upward sword, purple field
 

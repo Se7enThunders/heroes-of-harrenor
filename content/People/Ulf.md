@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S5
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# Ulf
 
 **[[Joran Jotunsson|Joran]]'s cousin; mercenary**  
 Status: <span class="st-dead">DEAD</span>, First seen: S5

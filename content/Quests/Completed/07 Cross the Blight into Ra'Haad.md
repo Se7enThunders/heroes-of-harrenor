@@ -10,7 +10,6 @@ sessions: "S6-S8"
 aliases:
   - "Cross the Blight into Ra'Haad"
 ---
-# Cross the Blight into Ra'Haad
 
 **Quest 7** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S6-S8
 

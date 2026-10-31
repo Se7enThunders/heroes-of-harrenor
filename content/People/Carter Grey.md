@@ -10,7 +10,6 @@ aliases:
   - "Carter"
   - "Carter Gray"
 ---
-# Carter Grey
 
 **[[Henry Grey|Henry]]'s younger brother**  
 Status: <span class="st-dead">DEAD</span>, First seen: S12

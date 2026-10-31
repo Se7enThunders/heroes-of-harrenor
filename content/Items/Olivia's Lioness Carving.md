@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S0
 ---
-# Olivia's Lioness Carving
 
 **Where it is:** [[Olivia Arden|Olivia]]  
 **First seen:** S0

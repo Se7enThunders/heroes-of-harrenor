@@ -6,7 +6,6 @@ first-seen: S9
 aliases:
   - "Palantir"
 ---
-# The Palantir
 
 **Where it is:** With the party ([[Theodore Silver|Theo]] carried it)  
 **First seen:** S9

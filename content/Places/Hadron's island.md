@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S30
 ---
-# Hadron's island
 
 **Island** in [[The West]]  
 **Held by:** --  

@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: Lore
 ---
-# Goldhearth
 
 **City** in [[The Heartlands]]  
 **Held by:** [[House Fane]]  

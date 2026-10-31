@@ -6,7 +6,6 @@ first-seen: S5
 aliases:
   - "Goldwood"
 ---
-# The Goldwood
 
 **Forest**  
 **Held by:** --  

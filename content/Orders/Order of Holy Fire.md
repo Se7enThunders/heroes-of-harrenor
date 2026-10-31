@@ -8,7 +8,6 @@ aliases:
   - "Holy Order"
   - "Holy Fire"
 ---
-# Order of Holy Fire
 
 **Stance, status, first seen:** ally, active, S1  
 **Signs:** red masks & fire robes ([[Baylor Stelaris|Baylor]]); crimson armor trimmed gold ([[Sir Ignatius|Ignatius]]); fire emblem  

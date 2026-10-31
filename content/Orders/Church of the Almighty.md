@@ -4,7 +4,6 @@ tags:
 hh: order
 group: Faiths & holy orders
 ---
-# Church of the Almighty
 
 **Stance, status, first seen:** ally, active, S8  
 **Signs:** cross/symbol of [[The Almighty|the Almighty]]; cathedrals & chapels  

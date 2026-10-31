@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S6
 ---
-# Na'Buchar
 
 **Trading city** in [[Ra'Haad]]  
 **Held by:** [[Emir Hadi ibn Ghassan]]  

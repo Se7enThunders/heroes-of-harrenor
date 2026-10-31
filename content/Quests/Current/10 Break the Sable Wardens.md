@@ -11,7 +11,6 @@ started: "Session 8"
 aliases:
   - "Break the Sable Wardens"
 ---
-# Break the Sable Wardens
 
 **Quest 10** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-3">BEACON 3</span> · **Since:** Session 8
 

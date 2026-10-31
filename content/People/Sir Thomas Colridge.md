@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "Colridge"
 ---
-# Sir Thomas Colridge
 
 **Knight of [[House Cromwell]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S19

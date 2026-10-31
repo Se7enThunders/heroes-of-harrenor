@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S23
 group: Minor & Unnamed Faces
 ---
-# Mockingbird banker
 
 **[[Colonial Bank]] official**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S23

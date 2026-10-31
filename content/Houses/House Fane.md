@@ -7,7 +7,6 @@ aliases:
   - "Fane"
   - "Fanes"
 ---
-# House Fane
 
 **Side:** [[William Arden|King William]]'s crown  
 **Seat, head, sigil:** [[Goldhearth]], [[The Heartlands|Heartlands]], head not named  

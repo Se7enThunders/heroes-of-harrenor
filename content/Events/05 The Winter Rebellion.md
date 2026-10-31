@@ -7,7 +7,6 @@ aliases:
   - "Winter Rebellion"
 first-seen: Before the campaign
 ---
-# The Winter Rebellion
 
 **When:** Before the campaign
 

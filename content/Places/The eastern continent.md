@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S5
 ---
-# The eastern continent
 
 **Continent**  
 **Held by:** --  

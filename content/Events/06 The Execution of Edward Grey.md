@@ -7,7 +7,6 @@ aliases:
   - "Execution of Edward Grey"
 first-seen: "Lore"
 ---
-# The Execution of Edward Grey
 
 **When:** Just before Session 0
 

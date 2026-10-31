@@ -7,7 +7,6 @@ aliases:
   - "Grimston"
   - "Grimstons"
 ---
-# House Grimston
 
 **Sigil:** bear on hind legs, silver field
 

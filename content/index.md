@@ -6,8 +6,6 @@ hh: reference
 automatic-linker-off: true
 ---
 
-# Heroes of Harrenor
-
 *Joran Jotunsson's campaign notebook. Updated: After Session 30 (Sanctuary).*
 
 **Color key:** <span class="hh-party">party</span>, <span class="hh-ally">friends & neutrals</span>, <span class="hh-enemy">enemies</span>, <span class="hh-place">places</span>, <span class="hh-item">items, events & friendly orders</span>, <span class="hh-quest">quests</span>. Friendly houses are blue, hostile houses and orders red.

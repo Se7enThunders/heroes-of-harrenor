@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S5.5
 ---
-# Joran's Greatsword
 
 **Where it is:** [[Joran Jotunsson|Joran]]  
 **First seen:** S5.5

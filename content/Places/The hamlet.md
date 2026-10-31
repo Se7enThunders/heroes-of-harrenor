@@ -5,7 +5,6 @@ hh: place
 first-seen: S5
 automatic-linker-prevent-linking: true
 ---
-# The hamlet
 
 **Village** in [[The Lowlands]]  
 **Held by:** Saved  

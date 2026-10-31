@@ -6,7 +6,6 @@ hh: enemy
 aliases:
   - "Ryder"
 ---
-# House Ryder
 
 **Side:** [[William Arden|King William]]'s crown  
 **Seat, head, sigil:** North [[The Swordlands|Swordlands]] coast, head not named  

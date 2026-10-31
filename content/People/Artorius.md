@@ -11,7 +11,6 @@ status: ALIVE
 first-seen: S13
 group: Seraphyne, the Handmaidens & the North
 ---
-# Artorius
 
 **mysterious ancient warrior**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S13

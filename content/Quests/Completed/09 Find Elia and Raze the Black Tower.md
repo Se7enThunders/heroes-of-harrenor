@@ -10,7 +10,6 @@ sessions: "S8-S9"
 aliases:
   - "Find Elia and Raze the Black Tower"
 ---
-# Find Elia and Raze the Black Tower
 
 **Quest 9** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S8-S9
 

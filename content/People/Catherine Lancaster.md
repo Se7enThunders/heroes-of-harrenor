@@ -10,7 +10,6 @@ status: ALIVE
 first-seen: Lore
 group: Kingsmont, House Lancaster & the Mockingbird
 ---
-# Catherine Lancaster
 
 **[[Godfrey Arden|Godfrey]]'s widow; [[Titus Lancaster|Titus]]'s daughter**  
 Status: <span class="st-alive">ALIVE</span>, First seen: Lore

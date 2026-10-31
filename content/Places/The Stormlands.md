@@ -6,7 +6,6 @@ first-seen: Lore
 aliases:
   - "Stormlands"
 ---
-# The Stormlands
 
 **Region**  
 **Held by:** --  

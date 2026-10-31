@@ -6,7 +6,6 @@ hh: ally
 aliases:
   - "Hay"
 ---
-# House Hay
 
 **Sigil:** [[The Almighty|Almighty]] symbol over crossed battle axes, white
 

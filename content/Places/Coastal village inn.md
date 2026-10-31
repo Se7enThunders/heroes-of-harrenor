@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S16
 ---
-# Coastal village inn
 
 **Village** in [[The Swordlands]]  
 **Held by:** Neutral  

@@ -8,7 +8,6 @@ aliases:
   - "first bell"
 first-seen: "Session 15"
 ---
-# The Ringing of the First Bell
 
 **When:** Session 15
 

@@ -11,7 +11,6 @@ started: "Session 0"
 aliases:
   - "Joran's Father and the Fight for His Soul"
 ---
-# Joran's Father and the Fight for His Soul
 
 **Quest 3** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-4">BEACON 4</span> · **Since:** Session 0
 

@@ -8,7 +8,6 @@ aliases:
   - "Kingsmont siege"
 first-seen: S5.5
 ---
-# The Siege of Kingsmont
 
 **When:** S5.5
 

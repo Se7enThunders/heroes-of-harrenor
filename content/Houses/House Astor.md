@@ -6,7 +6,6 @@ hh: ally
 aliases:
   - "Astor"
 ---
-# House Astor
 
 **Side:** [[Godric Arden|King Godric]]'s crown  
 **Seat, head, sigil:** [[Oldport]] (a guard captain)  

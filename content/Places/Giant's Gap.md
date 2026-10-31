@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S12
 ---
-# Giant's Gap
 
 **Mountain valley** in [[The South]]  
 **Held by:** --  

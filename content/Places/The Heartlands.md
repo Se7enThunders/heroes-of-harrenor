@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Heartlands"
 ---
-# The Heartlands
 
 **Region of [[Harrenor]]**
 

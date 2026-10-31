@@ -11,7 +11,6 @@ status: ALIVE
 first-seen: S0
 group: "House Arden & King Godric's Court"
 ---
-# Celia Bruce-Arden
 
 **[[Godric Arden|Godric]]'s wife**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S0

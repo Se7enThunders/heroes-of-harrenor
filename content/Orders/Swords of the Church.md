@@ -4,7 +4,6 @@ tags:
 hh: order
 group: Faiths & holy orders
 ---
-# Swords of the Church
 
 **Stance, status, first seen:** destroyed, S24  
 **Signs:** purple banner, gold [[The Almighty|Almighty]] symbol over a mountain  

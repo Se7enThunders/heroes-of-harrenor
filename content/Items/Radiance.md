@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S19
 ---
-# Radiance
 
 **Where it is:** [[Theodore Silver|Theo]] (taken prisoner at [[Sanctuary]])  
 **First seen:** S19

@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Oliver Stone"
 ---
-# Sir Oliver Stone
 
 **twin knight holding [[Stoneheath]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S3

@@ -5,7 +5,6 @@ hh: session
 session: 18
 played: 2025-12-21
 ---
-# Session 18
 
 ← [[Session 17]] | [[index|Home]] | [[Joran's Journal#Session 18|Joran's journal entry]] | [[Session 19]] →
 

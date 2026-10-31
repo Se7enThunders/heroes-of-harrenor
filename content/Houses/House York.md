@@ -7,7 +7,6 @@ aliases:
   - "York"
   - "Yorks"
 ---
-# House York
 
 **Side:** Unknown  
 **Inside the house:** killed in [[04 The 6th Jihad|6th Jihad]]  

@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S8
 group: "Ra'Haad & the Blight"
 ---
-# Elia
 
 **elven servant**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S8

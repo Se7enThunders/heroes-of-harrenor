@@ -10,7 +10,6 @@ status: ALIVE
 first-seen: Lore
 group: Kingsmont, House Lancaster & the Mockingbird
 ---
-# William Arden
 
 **[[Godfrey Arden|Godfrey]]'s son; disputed heir**  
 Status: <span class="st-alive">ALIVE</span>, First seen: Lore

@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S16
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# The fallen archangel
 
 **imprisoned for betrayal**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S16

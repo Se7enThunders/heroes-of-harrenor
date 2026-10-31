@@ -5,7 +5,6 @@ tags:
 hh: enemy
 group: Mercenaries & forces
 ---
-# Leo Lancaster's raiders
 
 **Stance, status, first seen:** Enemy, scattered, S5  
 **Signs:** [[House Lancaster|Lancaster]] soldiers and northern mercenaries.  

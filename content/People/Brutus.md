@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S18
 group: Grimhold & Sunwatch
 ---
-# Brutus
 
 **Castellan of [[Sunwatch]] ([[Sunwatch|Castle Aurelius]])**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S18

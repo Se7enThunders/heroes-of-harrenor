@@ -10,7 +10,6 @@ sessions: "S11"
 aliases:
   - "Lead the Larad Exodus"
 ---
-# Lead the Larad Exodus
 
 **Quest 12** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S11
 

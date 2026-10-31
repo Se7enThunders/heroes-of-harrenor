@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S16
 ---
-# House Ryder's lands
 
 **Holdfast** in [[The Swordlands]]  
 **Held by:** [[House Ryder]] (loyal to [[William Arden|William]])  

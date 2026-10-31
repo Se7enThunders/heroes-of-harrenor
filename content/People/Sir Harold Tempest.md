@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "Harold Tempest"
 ---
-# Sir Harold Tempest
 
 **[[Lord Irwin Tempest|Irwin]]'s younger son**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S13

@@ -8,7 +8,6 @@ aliases:
   - "second bell"
 first-seen: "Session 22"
 ---
-# The Ringing of the Second Bell
 
 **When:** Session 22
 

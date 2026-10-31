@@ -5,7 +5,6 @@ hh: session
 session: 1
 played: 2024-12-15
 ---
-# Session 1
 
 ← [[Session 0]] | [[index|Home]] | [[Joran's Journal#Session 1|Joran's journal entry]] | [[Session 2]] →
 

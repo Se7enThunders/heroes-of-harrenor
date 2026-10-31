@@ -11,7 +11,6 @@ started: "Session 30"
 aliases:
   - "Keep House Grey Standing"
 ---
-# Keep House Grey Standing
 
 **Quest 28** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-2">BEACON 2</span> · **Since:** Session 30
 

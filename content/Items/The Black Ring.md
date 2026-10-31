@@ -6,7 +6,6 @@ first-seen: S22
 aliases:
   - "Black Ring"
 ---
-# The Black Ring
 
 **Where it is:** [[Draven Throssenheiser|Draven]], on a chain  
 **First seen:** S22

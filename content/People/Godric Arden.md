@@ -12,7 +12,6 @@ status: ALIVE
 first-seen: S0
 group: "House Arden & King Godric's Court"
 ---
-# Godric Arden
 
 **middle brother; King of [[Harrenor]]; [[Joran Jotunsson|Joran]]'s liege**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S0

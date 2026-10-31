@@ -6,7 +6,6 @@ aliases:
   - "Castle Aurelius"
 first-seen: S18
 ---
-# Sunwatch
 
 **Castle** in [[The South]]  
 **Held by:** Lord [[Theodore Silver]] (in all but name)  

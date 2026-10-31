@@ -11,7 +11,6 @@ started: "Session 30"
 aliases:
   - "Free Theo and Raouen"
 ---
-# Free Theo and Raouen
 
 **Quest 27** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-1">BEACON 1</span> · **Since:** Session 30
 

@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: Lore
 group: Kingsmont, House Lancaster & the Mockingbird
 ---
-# Mary Fane
 
 **[[William Arden|William]]'s betrothed**  
 Status: <span class="st-alive">ALIVE</span>, First seen: Lore

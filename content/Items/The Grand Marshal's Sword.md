@@ -8,7 +8,6 @@ aliases:
   - "Grand Marshal's Sword"
 first-seen: S27
 ---
-# The Grand Marshal's Sword
 
 **Where it is:** [[Joran Jotunsson|Joran]]  
 **First seen:** S27

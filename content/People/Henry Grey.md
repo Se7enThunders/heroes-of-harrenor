@@ -15,7 +15,6 @@ status: DEAD (presumed)
 first-seen: S0
 group: House Grey & the Southern Lords
 ---
-# Henry Grey
 
 **rebel king, then [[Godric Arden|Godric]]'s ally**  
 Status: <span class="st-dead">DEAD (presumed)</span>, First seen: S0

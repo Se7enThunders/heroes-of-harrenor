@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S7
 ---
-# Ashfall
 
 **Ruined city** in [[The Blight]]  
 **Held by:** The undead  

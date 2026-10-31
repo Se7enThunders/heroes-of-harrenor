@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S30
 group: Minor & Unnamed Faces
 ---
-# The false clergy of Sanctuary
 
 **[[House Lancaster|Lancaster]] soldiers in disguise**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S30

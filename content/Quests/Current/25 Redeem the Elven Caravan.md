@@ -11,7 +11,6 @@ started: "Session 29"
 aliases:
   - "Redeem the Elven Caravan"
 ---
-# Redeem the Elven Caravan
 
 **Quest 25** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-4">BEACON 4</span> · **Since:** Session 29
 

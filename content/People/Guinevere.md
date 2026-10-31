@@ -9,7 +9,6 @@ status: DEAD
 first-seen: S24
 group: Seraphyne, the Handmaidens & the North
 ---
-# Guinevere
 
 **Lady of [[Telandor]] (not a [[Handmaidens of Seraphyne|handmaiden]])**  
 Status: <span class="st-dead">DEAD</span>, First seen: S24

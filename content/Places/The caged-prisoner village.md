@@ -5,7 +5,6 @@ hh: place
 first-seen: S19
 automatic-linker-prevent-linking: true
 ---
-# The caged-prisoner village
 
 **Village** in [[The South]]  
 **Held by:** Emptied  

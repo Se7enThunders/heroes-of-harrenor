@@ -5,7 +5,6 @@ hh: place
 first-seen: S5.5
 automatic-linker-prevent-linking: true
 ---
-# Border inn
 
 **Roadside inn** in [[The Gilded Lands]]  
 **Held by:** Neutral  

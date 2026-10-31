@@ -9,7 +9,6 @@ group: House Grey & the Southern Lords
 aliases:
   - "Matthew"
 ---
-# Matthew Silver
 
 **[[Theodore Silver|Theo]]'s father**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S10

@@ -9,7 +9,6 @@ group: "Ra'Haad & the Blight"
 aliases:
   - "Ahmed"
 ---
-# Ahmed Al-Zahim
 
 **guide and spy**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S6

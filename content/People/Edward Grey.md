@@ -11,7 +11,6 @@ status: DEAD
 first-seen: Lore
 group: House Grey & the Southern Lords
 ---
-# Edward Grey
 
 **[[Henry Grey|Henry]]'s father; [[Godfrey Arden|Godfrey]]'s second**  
 Status: <span class="st-dead">DEAD</span>, First seen: Lore

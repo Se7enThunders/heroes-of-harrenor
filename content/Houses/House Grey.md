@@ -9,7 +9,6 @@ aliases:
   - "Gray"
   - "Grays"
 ---
-# House Grey
 
 **Sigil:** stag ([[The Black Stag Pendant|black stag pendant]])
 

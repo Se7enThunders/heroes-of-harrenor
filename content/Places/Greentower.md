@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S1
 ---
-# Greentower
 
 **War camp** in [[The Heartlands]]  
 **Held by:** [[Henry Grey]] (then)  

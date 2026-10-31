@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S5
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# Constantine
 
 **[[Draven Throssenheiser|Draven]]'s old rival**  
 Status: <span class="st-dead">DEAD</span>, First seen: S5

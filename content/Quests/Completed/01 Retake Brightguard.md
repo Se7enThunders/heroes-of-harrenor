@@ -10,7 +10,6 @@ sessions: "S0"
 aliases:
   - "Retake Brightguard"
 ---
-# Retake Brightguard
 
 **Quest 1** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S0
 

@@ -5,7 +5,6 @@ hh: session
 session: 10
 played: 2025-07-20
 ---
-# Session 10
 
 ← [[Session 9]] | [[index|Home]] | [[Joran's Journal#Session 10|Joran's journal entry]] | [[Session 11]] →
 

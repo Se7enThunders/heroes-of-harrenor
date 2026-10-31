@@ -4,7 +4,6 @@ tags:
 hh: reference
 automatic-linker-off: true
 ---
-# Houses & Politics
 
 *Who holds which crown, who is bargaining with whom, and where the realm is cracking.*  
 *Updated: After Session 30 (Sanctuary). Back to [[index|Home]].*

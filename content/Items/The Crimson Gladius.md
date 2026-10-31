@@ -6,7 +6,6 @@ first-seen: S26
 aliases:
   - "Crimson Gladius"
 ---
-# The Crimson Gladius
 
 **Where it is:** [[Raouen Sanderfell|Raouen]]  
 **First seen:** S26

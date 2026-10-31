@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S1
 ---
-# The farmer's homestead
 
 **Farm** in [[The Lowlands]]  
 **Held by:** Mark the deserter  

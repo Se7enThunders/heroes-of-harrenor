@@ -6,7 +6,6 @@ hh: ally
 aliases:
   - "Marshalls"
 ---
-# House Marshall
 
 **Sigil:** white wolf on blue
 

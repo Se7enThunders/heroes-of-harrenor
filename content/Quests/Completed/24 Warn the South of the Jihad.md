@@ -10,7 +10,6 @@ sessions: "S29"
 aliases:
   - "Warn the South of the Jihad"
 ---
-# Warn the South of the Jihad
 
 **Quest 24** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S29
 

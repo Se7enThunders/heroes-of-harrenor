@@ -8,7 +8,6 @@ first-seen: S30
 group: Minor & Unnamed Faces
 automatic-linker-prevent-linking: true
 ---
-# The escort at the Black Bear Inn
 
 **camp follower**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S30

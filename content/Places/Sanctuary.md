@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S29
 ---
-# Sanctuary
 
 **Monastery town**  
 **Held by:** [[Lord Callum Douglas|Lord Douglas]] & the [[House Lancaster|Lancasters]]  

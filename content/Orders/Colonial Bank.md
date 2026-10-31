@@ -4,7 +4,6 @@ tags:
 hh: order
 group: Money & trade
 ---
-# Colonial Bank
 
 **Stance, status, first seen:** complicated, S14  
 **Signs:** branches in great cities; tokens good at any branch; ships fly its insignia  

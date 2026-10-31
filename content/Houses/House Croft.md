@@ -4,7 +4,6 @@ tags:
   - "ally"
 hh: ally
 ---
-# House Croft
 
 **Side:** [[Godric Arden|King Godric]]'s crown  
 **Seat, head, sigil:** [[The Green Isles|Green Isles]], [[Lord Adam Croft]]  

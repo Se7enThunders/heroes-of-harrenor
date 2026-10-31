@@ -5,7 +5,6 @@ hh: place
 aliases:
   - "Gilded Lands"
 ---
-# The Gilded Lands
 
 **Region of [[Harrenor]]**
 

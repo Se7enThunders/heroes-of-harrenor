@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S1
 ---
-# Knight's Stone
 
 **Town** in [[The Lowlands]]  
 **Held by:** [[House Lancaster|Lancaster]] colors  

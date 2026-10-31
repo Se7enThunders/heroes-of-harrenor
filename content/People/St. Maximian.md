@@ -9,7 +9,6 @@ group: Seraphyne, the Handmaidens & the North
 aliases:
   - "Maximian"
 ---
-# St. Maximian
 
 **saint**  
 Status: <span class="st-dead">DEAD</span>, First seen: S21

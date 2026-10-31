@@ -5,8 +5,6 @@ hh: reference
 automatic-linker-off: true
 ---
 
-# Quest Log
-
 *Joran Jotunsson's quest log. Updated: After Session 30 (Sanctuary).*
 
 Every quest page is numbered in the order the party received it. Pages live in two folders, `Current` and `Completed`. When a quest ends, its page moves to `Completed` and keeps its number.

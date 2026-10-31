@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S16
 group: "House Arden & King Godric's Court"
 ---
-# Jingle Bell
 
 **mad jester from a shipwreck**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S16

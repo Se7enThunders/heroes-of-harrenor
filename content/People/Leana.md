@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S22
 group: Seraphyne, the Handmaidens & the North
 ---
-# Leana
 
 **second [[Handmaidens of Seraphyne|handmaiden]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S22

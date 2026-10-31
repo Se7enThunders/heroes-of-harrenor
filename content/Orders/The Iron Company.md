@@ -6,7 +6,6 @@ group: Mercenaries & forces
 aliases:
   - "Iron Company"
 ---
-# The Iron Company
 
 **Stance, status, first seen:** Unknown, active, S23  
 **Signs:** Not described.  

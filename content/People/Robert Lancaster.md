@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Robert"
 ---
-# Robert Lancaster
 
 **Chief [[House Lancaster|Lancaster]] heir**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S0

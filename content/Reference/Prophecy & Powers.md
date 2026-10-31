@@ -1,10 +1,10 @@
 ---
+title: "Prophecy & the Supernatural"
 tags:
   - "reference"
 hh: reference
 automatic-linker-off: true
 ---
-# Prophecy & the Supernatural
 
 *Dreams, visions, prophecies, gods, angels, demons, immortals and relics: everything beyond the mortal in Heroes of Harrenor.*  
 *Updated: After Session 30 (Sanctuary). Back to [[index|Home]].*

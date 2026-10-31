@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S20
 group: Minor & Unnamed Faces
 ---
-# The black-haired lady
 
 **courier's contact at the [[Oldport|Hopping Horse]]**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S20

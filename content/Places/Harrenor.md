@@ -6,7 +6,6 @@ aliases:
   - "Harrenorian"
   - "Harrenoran"
 ---
-# Harrenor
 
 *The world as we know it. Regions are linked; see the [[Gazetteer]] for every place.*
 

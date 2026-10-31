@@ -8,7 +8,6 @@ first-seen: S29
 group: Minor & Unnamed Faces
 automatic-linker-prevent-linking: true
 ---
-# The shepherd
 
 **[[Ra'Haad]] borderlands**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S29

@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S15
 group: Minor & Unnamed Faces
 ---
-# Sir Horace
 
 **knight of [[House Hay]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S15

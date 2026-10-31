@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S21
 ---
-# Bell temple of Varanor
 
 **Ruined temple** in [[Varanor]]  
 **Held by:** --  

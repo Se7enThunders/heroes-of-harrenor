@@ -9,7 +9,6 @@ group: "House Arden & King Godric's Court"
 aliases:
   - "Father Mathew"
 ---
-# Father James
 
 **Bishop of [[Brightguard]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S15

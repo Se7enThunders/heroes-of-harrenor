@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S21
 ---
-# The wardrobe outpost
 
 **Ruined castle** in [[Varanor]]  
 **Held by:** Abandoned  

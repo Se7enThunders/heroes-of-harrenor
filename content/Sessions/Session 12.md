@@ -5,7 +5,6 @@ hh: session
 session: 12
 played: 2025-08-24
 ---
-# Session 12
 
 ← [[Session 11]] | [[index|Home]] | [[Joran's Journal#Session 12|Joran's journal entry]] | [[Session 13]] →
 

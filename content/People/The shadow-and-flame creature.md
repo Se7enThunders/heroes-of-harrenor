@@ -7,7 +7,6 @@ status: UNKNOWN
 first-seen: S28
 group: "Joran's Bloodline & the Dark Powers"
 ---
-# The shadow-and-flame creature
 
 **thing beneath [[Telandor]]**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S28

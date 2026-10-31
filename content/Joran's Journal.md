@@ -4,8 +4,6 @@ tags:
 hh: journal
 ---
 
-# Joran's Journal
-
 *The journal of Joran Jotunsson, in his own words. Each entry matches a session; use the outline pane or the links below to jump.*
 
 [[#Session 0|S0]], [[#Session 1|S1]], [[#Session 2|S2]], [[#Session 3|S3]], [[#Session 4|S4]], [[#Session 5|S5]], [[#Session 5.5|S5.5]], [[#Session 6|S6]], [[#Session 7|S7]], [[#Session 8|S8]], [[#Session 9|S9]], [[#Session 10|S10]], [[#Session 11|S11]], [[#Session 12|S12]], [[#Session 13|S13]], [[#Session 14|S14]], [[#Session 15|S15]], [[#Session 16|S16]], [[#Interlude 16.5|Int. 16.5]], [[#Session 17|S17]], [[#Session 18|S18]], [[#Session 19|S19]], [[#Session 20|S20]], [[#Session 21|S21]], [[#Session 22|S22]], [[#Session 23|S23]], [[#Session 24|S24]], [[#Session 25|S25]], [[#Session 26|S26]], [[#Session 27|S27]], [[#Session 28|S28]], [[#Session 29|S29]], [[#Session 30|S30]], [[#Session 31|S31]]

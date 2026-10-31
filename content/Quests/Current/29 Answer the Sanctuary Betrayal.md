@@ -11,7 +11,6 @@ started: "Session 30"
 aliases:
   - "Answer the Sanctuary Betrayal"
 ---
-# Answer the Sanctuary Betrayal
 
 **Quest 29** · **Status:** <span class="st-captive">CURRENT</span> · **Urgency:** <span class="bc-2">BEACON 2</span> · **Since:** Session 30
 

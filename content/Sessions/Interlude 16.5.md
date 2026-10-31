@@ -5,7 +5,6 @@ hh: session
 session: 16.5
 written: 2025-11-24
 ---
-# Interlude 16.5
 
 ← [[Session 16]] | [[index|Home]] | [[Joran's Journal#Interlude 16.5|Joran's journal entry]] | [[Session 17]] →
 

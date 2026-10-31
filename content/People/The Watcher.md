@@ -7,7 +7,6 @@ status: DEAD
 first-seen: S26
 group: Seraphyne, the Handmaidens & the North
 ---
-# The Watcher
 
 **guardian of the hidden [[Everwhite Trees|Everwhite]]**  
 Status: <span class="st-dead">DEAD</span>, First seen: S26

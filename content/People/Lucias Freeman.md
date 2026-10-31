@@ -10,7 +10,6 @@ aliases:
   - "Lucius"
   - "Lucias"
 ---
-# Lucias Freeman
 
 **freedman recruit**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S12

@@ -7,7 +7,6 @@ aliases:
   - "Cromwell"
   - "Cromwells"
 ---
-# House Cromwell
 
 **Side:** [[Godric Arden|King Godric]]'s crown  
 **Seat, head, sigil:** [[The South|the South]], [[Lord Otto Cromwell]]  

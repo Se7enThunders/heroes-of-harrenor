@@ -10,7 +10,6 @@ sessions: "S23-S28"
 aliases:
   - "Wake Guinevere"
 ---
-# Wake Guinevere
 
 **Quest 22** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S23-S28
 

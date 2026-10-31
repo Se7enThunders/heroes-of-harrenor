@@ -7,7 +7,6 @@ aliases:
   - "Slaying of Goroth"
 first-seen: "Session 16"
 ---
-# The Slaying of Goroth
 
 **When:** Session 16
 

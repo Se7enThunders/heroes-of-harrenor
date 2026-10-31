@@ -9,7 +9,6 @@ group: Minor & Unnamed Faces
 aliases:
   - "Goldblum"
 ---
-# James Goldblum
 
 **Merchant who trades through the [[Colonial Bank]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S14

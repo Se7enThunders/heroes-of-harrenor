@@ -10,7 +10,6 @@ sessions: "S0-S21"
 aliases:
   - "Bring Henry Grey to Heel"
 ---
-# Bring Henry Grey to Heel
 
 **Quest 2** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S0-S21
 

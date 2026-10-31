@@ -7,7 +7,6 @@ status: ALIVE
 first-seen: S29
 group: Minor & Unnamed Faces
 ---
-# Bloody Knives slavers
 
 **caravan near [[Grimhold]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S29

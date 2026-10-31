@@ -4,7 +4,6 @@ tags:
 hh: item
 first-seen: S10
 ---
-# Theo's Talisman
 
 **Where it is:** [[Theodore Silver|Theo]]  
 **First seen:** S10

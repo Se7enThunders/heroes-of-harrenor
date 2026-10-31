@@ -10,7 +10,6 @@ sessions: "S13-S17"
 aliases:
   - "Fetch Robert Lancaster"
 ---
-# Fetch Robert Lancaster
 
 **Quest 13** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S13-S17
 

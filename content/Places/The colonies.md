@@ -5,7 +5,6 @@ hh: place
 first-seen: S10
 automatic-linker-prevent-linking: true
 ---
-# The colonies
 
 **Island colonies** in [[Ra'Haad]]  
 **Held by:** --  

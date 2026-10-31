@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: Lore
 ---
-# Red Den
 
 **Castle** in [[The Lowlands]]  
 **Held by:** [[Lord Callum Douglas]]  

@@ -11,7 +11,6 @@ aliases:
   - "Raymond Grimston"
   - "Lord Grimston"
 ---
-# Lord Raymond Grimston
 
 **Lord of [[Grimhold]]**  
 Status: <span class="st-alive">ALIVE</span>, First seen: S6

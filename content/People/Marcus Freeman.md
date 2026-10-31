@@ -9,7 +9,6 @@ group: Grimhold & Sunwatch
 aliases:
   - "Marcus"
 ---
-# Marcus Freeman
 
 **freedman recruit**  
 Status: <span class="st-unknown">UNKNOWN</span>, First seen: S12

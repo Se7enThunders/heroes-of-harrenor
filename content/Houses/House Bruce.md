@@ -7,7 +7,6 @@ aliases:
   - "Bruce"
   - "Bruces"
 ---
-# House Bruce
 
 **Side:** [[Godric Arden|King Godric]]'s crown  
 **Seat, head, sigil:** [[The Northeast|Frostmark]], [[The Northeast|Northeast]], head not named  

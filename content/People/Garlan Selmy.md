@@ -9,7 +9,6 @@ group: Kingsmont, House Lancaster & the Mockingbird
 aliases:
   - "Garlan"
 ---
-# Garlan Selmy
 
 **[[Raouen Sanderfell|Raouen]]'s brother-in-law**  
 Status: <span class="st-dead">DEAD</span>, First seen: S12

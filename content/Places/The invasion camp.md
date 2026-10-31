@@ -5,7 +5,6 @@ hh: place
 first-seen: S28
 automatic-linker-prevent-linking: true
 ---
-# The invasion camp
 
 **Army camp** in [[Ra'Haad]]  
 **Held by:** [[Ra'Haadi forces|Ra'Haadi]] host  

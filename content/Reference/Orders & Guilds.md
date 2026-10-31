@@ -4,7 +4,6 @@ tags:
 hh: reference
 automatic-linker-off: true
 ---
-# Orders & Guilds
 
 *Faiths, holy orders, cults, spy rings, sellswords and banks: the powers that move behind the crowns.*  
 *Updated: After Session 30 (Sanctuary). Back to [[index|Home]].*

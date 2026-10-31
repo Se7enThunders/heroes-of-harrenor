@@ -9,7 +9,6 @@ aliases:
   - "Abyssal Fire"
   - "Abyssal Flame"
 ---
-# Cult of Abyssal Fire
 
 **Stance, status, first seen:** enemy, S4  
 **Signs:** abyssal flame emblem carved into victims & worn as medallion; victims' eyes burned out, hearts taken; walls of fire  

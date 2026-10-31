@@ -4,7 +4,6 @@ tags:
 hh: reference
 automatic-linker-off: true
 ---
-# Who's Who
 
 *Every player character and named face in the campaign, grouped by court and faction. First = the session they first appeared.*  
 *Updated: After Session 30 (Sanctuary). Back to [[index|Home]].*

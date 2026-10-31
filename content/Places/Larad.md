@@ -4,7 +4,6 @@ tags:
 hh: place
 first-seen: S10
 ---
-# Larad
 
 **Walled town** in [[Ra'Haad]]  
 **Held by:** Evacuated  

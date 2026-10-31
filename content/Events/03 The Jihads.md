@@ -8,7 +8,6 @@ aliases:
   - "Jihads"
 first-seen: Lore
 ---
-# The Jihads
 
 **When:** Lore
 

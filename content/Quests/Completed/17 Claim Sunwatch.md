@@ -10,7 +10,6 @@ sessions: "S18-S19"
 aliases:
   - "Claim Sunwatch"
 ---
-# Claim Sunwatch
 
 **Quest 17** · **Status:** <span class="st-alive">COMPLETED</span> · **Sessions:** S18-S19
 

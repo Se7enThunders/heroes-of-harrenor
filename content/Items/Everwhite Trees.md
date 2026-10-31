@@ -9,7 +9,6 @@ aliases:
   - "Everwhite trees"
 first-seen: S18
 ---
-# Everwhite Trees
 
 **Where it is:** Western [[Varanor]]; beneath [[Telandor]]  
 **First seen:** S18

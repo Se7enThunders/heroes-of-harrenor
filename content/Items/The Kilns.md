@@ -7,7 +7,6 @@ aliases:
   - "Kilns"
 first-seen: S24
 ---
-# The Kilns
 
 **Where it is:** [[Hadron Ironwood|Hadron]] ([[Guinevere]]'s); the altar beneath [[Telandor]] (the captive's)  
 **First seen:** S24

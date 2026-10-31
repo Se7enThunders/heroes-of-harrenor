@@ -8,7 +8,6 @@ aliases:
   - "Joran's confirmation"
 first-seen: "Session 15"
 ---
-# Joran Joins the Faith
 
 **When:** Session 15
 

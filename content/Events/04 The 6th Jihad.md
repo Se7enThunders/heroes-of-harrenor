@@ -7,7 +7,6 @@ aliases:
   - "6th Jihad"
 first-seen: ~17 years ago
 ---
-# The 6th Jihad
 
 **When:** ~17 years ago
 

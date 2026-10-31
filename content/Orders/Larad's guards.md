@@ -4,7 +4,6 @@ tags:
 hh: order
 group: Mercenaries & forces
 ---
-# Larad's guards
 
 **Stance, status, first seen:** Ally, disbanded, S10  
 **Signs:** Mixed: elves from [[The colonies|the colonies]], [[Ra'Haadi forces|cataphracts]], northmen, Harrenorians.  
