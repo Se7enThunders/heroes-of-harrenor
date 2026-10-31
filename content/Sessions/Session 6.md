@@ -35,7 +35,7 @@ played: 2025-05-04
 
 - [[Joran Jotunsson|Joran]] is tasked with aiding the rest of the party in the mission to [[Ra'Haad|Ra'haad]].
 - [[Elara]] decides to come, but will meet us after she's checked up on family. Will meet us after we've entered [[Ra'Haad|Ra'haad]] through [[Grimhold]].
-- We set out from [[Brightguard]] across [[The South|the South]]. Approximate ==travel time is a month.==
+- We set out from [[Brightguard]] across [[The South|the South]]. Approximate <mark>travel time is a month.</mark>
 - We pass through [[Stag's Rest]], the capital seat of the province of [[The South|the South]], ancestral home of the [[House Grey|Greys]].
 - [[Joran Jotunsson|Joran]] does a lot of cooking on the road, and takes after [[Dharshoon]]'s bees.
 - The weather is turning as mid-November chill sets in. Reports of the first snows up north.

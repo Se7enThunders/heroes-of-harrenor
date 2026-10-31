@@ -20,7 +20,7 @@ played: 2025-12-21
 
 ## Now
 
-- We opt to heal up and ==rest== briefly outside the ruins.
+- We opt to heal up and <mark>rest</mark> briefly outside the ruins.
 - On closer inspection, the ruins appear to be that of an old castle. ![[Session 18 art 1.jpg|hh-pop]]
 - [[Dharshoon]] recalls how devastating the [[03 The Jihads|jihads]] were in the south in years past.
 	- He recalls this was a fort ruined in the [[03 The Jihads|jihads]], belonging to an extinct house, [[House Aurelius]].
@@ -71,7 +71,7 @@ played: 2025-12-21
 	- We tell him we'll discuss our potential lordship over an evening meal and let him know in the morning.
 - As he gives us the tour, he shows us the old forges, the library, and the crypts.
 	- The crypts are well preserved and accessed only by hidden passageway.
-	- Inside is a banner of a ==gold eagle with wings stretched overhead, wreathed in a golden sun, on a field of red==, the sigil of house [[House Aurelius|Aurelius]], lit by magical ever-burning torches.
+	- Inside is a banner of a <mark>gold eagle with wings stretched overhead, wreathed in a golden sun, on a field of red</mark>, the sigil of house [[House Aurelius|Aurelius]], lit by magical ever-burning torches.
 - As we tour the crypts, we notice the house is very old, and each coffin has the same sword carved into it.
 	- As we see the tomb of [[Titus Aurelius]], we note his visage wears a [[The Winged Helm|winged helm]].
 - [[Brutus]] mentions that the sword we see on all the tombs is called [[Radiance]].
@@ -94,7 +94,7 @@ played: 2025-12-21
 	- He's notices something and decides to go look at the crypts to look at his tomb again.
 	- [[Theodore Silver|Theo]] notices that the material around the arms and the sword are newer than the rest of the statue.
 	- He's convinced something us up, but can't figure out what, departing for his bed.
-	- He dreams of the phrase [[Brutus]] spoke. "==[[Titus Lancaster|Titus]]' sword is fit for a lord.=="
+	- He dreams of the phrase [[Brutus]] spoke. "<mark>[[Titus Lancaster|Titus]]' sword is fit for a lord.</mark>"
 
 ## Long Rest
 

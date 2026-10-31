@@ -46,9 +46,9 @@ COMBAT (continues)
 - We find a small village with an inn further north as the sun begins to set.
 - We eat some food and down some ales, discussing the events of the day.
 - [[Draven Throssenheiser|Draven]] recounts a dream that he, [[Theodore Silver|Theodore]], and [[Dharshoon]] shared.
-	- ==A dead stag laying in a baren wasteland, a dead next to it filled with magots, a humanoid figure made of shadow reached out them individually before they woke.==
+	- <mark>A dead stag laying in a baren wasteland, a dead next to it filled with magots, a humanoid figure made of shadow reached out them individually before they woke.</mark>
 - [[Joran Jotunsson|Joran]] shares the dream he and [[Elara]] shared way back before they met up.
-	- ==They see a field that turns dark as if on fire. We see a city on a hill in the distance burning. In the field below it, we see the boney corpse of a stag with many wounds. A dead lion lies next to it. Between them is a broken sword and crown made of steel and rusting, like they've been there a long time. No sign of life anywhere around. Everything is grey, black, and ash. In the distance we see a dark figure staring at the burning city.==
+	- <mark>They see a field that turns dark as if on fire. We see a city on a hill in the distance burning. In the field below it, we see the boney corpse of a stag with many wounds. A dead lion lies next to it. Between them is a broken sword and crown made of steel and rusting, like they've been there a long time. No sign of life anywhere around. Everything is grey, black, and ash. In the distance we see a dark figure staring at the burning city.</mark>
 - We surmise the stag represented [[House Grey]] and the lion represented [[House Arden]].
 - [[Joran Jotunsson|Joran]] inquires of the barkeep after a holy man here in the village. He informs us there is a bishop here that holds a service in the morning.
 - [[Joran Jotunsson|Joran]] tips the barkeep a gold. The barkeep protests saying that others in the village need it more. [[Joran Jotunsson|Joran]] says to pay it forward.
@@ -89,7 +89,7 @@ COMBAT (continues)
 	- A shipwreck from the east a few days ago washed up a fool ([[Jingle Bell|jester]]) who's half mad.
 - [[Henry Grey]] and his armies were able to recapture [[Oldport]].
 - We are to deliver terms to [[Henry Grey]]. He will have his sister returned to him once he swears fealty to [[Godric Arden|Godric]], still able to retain his title of [[Henry Grey|King in the South]].
-- We hear coming from a voice in the castle: ==“The red wolves feast on stags in the forest, to burning men cheering in dreadful chorus! I know! I know! Oh yes I know!”== In a sing-song voice.
+- We hear coming from a voice in the castle: <mark>“The red wolves feast on stags in the forest, to burning men cheering in dreadful chorus! I know! I know! Oh yes I know!”</mark> In a sing-song voice.
 - [[Joran Jotunsson|Joran]] explains what he was told about the half crazed fool they found in the shipwreck.
 
 ---

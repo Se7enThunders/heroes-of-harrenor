@@ -12,7 +12,7 @@ played: 2026-04-19
 ## Previously
 
 - Party departs [[Sunwatch]] for [[Oldport]]; [[Joran Jotunsson|Joran]] sends word to [[Godric Arden|King Godric]] via [[Lord Adam Croft|Lord Croft]] while noting renewed war pressure in [[The Northeast|the Northeast]].
-- Tensions rise in [[Oldport]]: [[Henry Grey]] orders [[Theodore Silver|Theo]] into military service under [[Sir Baylon Stelaris|Balon Stelaris]]; [[Colonial Bank]] presence and [[The Iron Company|Iron Company]] signal deeper political/financial influence (==[[The Mockingbird|mockingbird]] faction resurfaces==).
+- Tensions rise in [[Oldport]]: [[Henry Grey]] orders [[Theodore Silver|Theo]] into military service under [[Sir Baylon Stelaris|Balon Stelaris]]; [[Colonial Bank]] presence and [[The Iron Company|Iron Company]] signal deeper political/financial influence (<mark>[[The Mockingbird|mockingbird]] faction resurfaces</mark>).
 - [[Joran Jotunsson|Joran]] consults [[Father James]] at the Cathedral; uncovers and copies an old map pointing to southern sites—identifies a likely target in [[The Blight|the Blight]] for the final bell.
 - Party secures support from [[Sir Baylon Stelaris|Balon]] and [[Baylor Stelaris]], gaining approval to pursue the [[Lady Seraphyne|Seraphyne]] mission south despite [[House Grey|Grey]]’s demands.
 - Journey to [[Grimhold]]: reunite with [[Ahmed Al-Zahim]], honor [[Sahir Ebon'Sayid|Sahir]]’s grave, and prepare for desert crossing into [[Ra'Haad|Ra’Haad]].
@@ -63,7 +63,7 @@ played: 2026-04-19
 	- [[Raouen Sanderfell|Raouen]] explains the situation and [[Joran Jotunsson|Joran]] seems more excited than the rest to finish the mission.
 	- [[Raouen Sanderfell|Raouen]] explains he's worried none of this is real, a powerful illusion.
 - Despite our misgivings, we move to the church to ring the final bell.
-- As we walk through the city, we see standards of the city, a ==purple banner with a gold symbol of the almighty above a mountain==. ![[Session 24 art 6.png|hh-pop]]
+- As we walk through the city, we see standards of the city, a <mark>purple banner with a gold symbol of the almighty above a mountain</mark>. ![[Session 24 art 6.png|hh-pop]]
 - The man explains a great order of knights once protected the city and flew this banner.
 - We pass shops still stocked with arms, armor, food, and notice the city was prepared for a fight.
 - The man explains they were expecting to fight "winged fire."
@@ -115,7 +115,7 @@ played: 2026-04-19
 - [[Joran Jotunsson|Joran]] draws his blade and points it at the man who we see now is withered and still lives only through dark magic.
 - He says we've spilled the [[The Kilns|kiln]] and its contents will be scattered through the world.
 - He laughs a final time and dies.
-- The lady's body clasps a note that says =="The scourge and the [[Handmaidens of Seraphyne|handmaiden]] wait in the dark below."==
+- The lady's body clasps a note that says <mark>"The scourge and the [[Handmaidens of Seraphyne|handmaiden]] wait in the dark below."</mark>
 - We explore the area and note that two basins of [[Holy Water of Telandor|holy water]] we saw when we came in are still intact.
 - We're unsure what to do with it, so [[Joran Jotunsson|Joran]] hastily anoints the party and our weapons. We feel empowered.
 - There is no bell in the church, and we find no entrance to the "dark below" within the church.

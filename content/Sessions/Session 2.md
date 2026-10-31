@@ -42,7 +42,7 @@ NOW (early morning, just before sunrise)
 	- Also too much.
 - We pay him to tell us about [[Stoneheath]].
 	- He tells us the [[House Lancaster|Lancasters]] have it well in hand.
-		- ==With the exception of a small door on the north side that is poorly guarded==.
+		- <mark>With the exception of a small door on the north side that is poorly guarded</mark>.
 - We pass the homestead of [[The farmer|the farmer]] whose family was killed by [[House Lancaster|Lancaster]] men. ![[Session 2 art 2.jpg|hh-pop]]
 	- It seems [[The farmer|the farmer]] is not here.
 	- We dismount to investigate.

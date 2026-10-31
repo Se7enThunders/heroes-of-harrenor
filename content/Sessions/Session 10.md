@@ -92,11 +92,11 @@ COMBAT!
 - He hands it off to [[Theodore Silver|Theo]].
 - [[Raouen Sanderfell|Raouen]] hears more wailing from where we came.
 - There 2 doors in this room. We opt to look into one that leads to an old library.
-- Inside we find and old tome written in [[Ra'Haadi forces|Ra'Haadi]], which [[Dharshoon]] translates the title as =="On the Occult and Their Practices."==
+- Inside we find and old tome written in [[Ra'Haadi forces|Ra'Haadi]], which [[Dharshoon]] translates the title as <mark>"On the Occult and Their Practices."</mark>
 	- It's well used with worn pages. In the back it details a belief of the [[Cult of Abyssal Fire|cult]] about a man that descended to the right hand of "the enemy" and became a powerful demon, achieved through immense human sacrifice.
 - [[Draven Throssenheiser|Draven]] sees on a table, an open scroll with pen and ink nearby, freshly written on.
 	- [[Draven Throssenheiser|Draven]] has [[Dharshoon]] translate it.
-	- What stands out is =="we're attempting to make him break his vows, but nothing seems to work. We will continue in our attempts."==
+	- What stands out is <mark>"we're attempting to make him break his vows, but nothing seems to work. We will continue in our attempts."</mark>
 - Two more doors in this room. [[Theodore Silver|Theo]] checks the one to the south. It is trapped. He disarms it easily.
 	- It's a mostly empty store room. [[Theodore Silver|Theo]] finds minor healing potions in the crates. [[Draven Throssenheiser|Draven]] finds rations.
 - We head back to the previous room. [[Theodore Silver|Theo]] attempts disarms the traps on that door as well, failing this time managing to dodge a bolt that flies out from the wall.

@@ -13,7 +13,7 @@ played: 2025-04-06
 
 - Traveling with [[Elara]] (Rebekah) (aasimar), [[Raouen Sanderfell|Raouen Lawson]] (human) (Josh), [[Theodore Silver]] (human) (Preston), [[Draven Throssenheiser]] (half-elf) (Jake), [[Dharshoon]] (human) (Atmeos).
 - [[Joran Jotunsson|Joran]] needs to find a maul and/or better armor.
-- ==REMEMBER TO ROLL DAMAGE DICE TWICE! (once per turn) (savage attacker)==
+- <mark>REMEMBER TO ROLL DAMAGE DICE TWICE! (once per turn) (savage attacker)</mark>
 
 ## Previous Summary
 

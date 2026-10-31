@@ -113,7 +113,7 @@ Previously
 - [[Sahir Ebon'Sayid|Sahir]] asks if we have someone who can translate for us in the meeting tomorrow, which [[Dharshoon]] can.
 - After the conversation, [[Draven Throssenheiser|Draven]] approaches [[Joran Jotunsson|Joran]] and asks about [[Godric Arden]], specifically his character.
 - [[Joran Jotunsson|Joran]] explains how [[Godric Arden|Godric]] is the rightful king of [[Harrenor]], not because of any blood claim, but because he is the better man.
-- [[Draven Throssenheiser|Draven]] tells [[Joran Jotunsson|Joran]] and [[Raouen Sanderfell|Raouen]] about a voice that says =="I've searched for thee, dark stricken creature."== and sees the fortress of [[Grimhold]] on fire.
+- [[Draven Throssenheiser|Draven]] tells [[Joran Jotunsson|Joran]] and [[Raouen Sanderfell|Raouen]] about a voice that says <mark>"I've searched for thee, dark stricken creature."</mark> and sees the fortress of [[Grimhold]] on fire.
 - The language feels familiar to [[Joran Jotunsson|Joran]], but he can't put his finger on it. All he can tell is it is something old and powerful that watches [[Draven Throssenheiser|Draven]].
 - The party relaxes and recuperates and prepares to attend the meeting with [[Sahir Ebon'Sayid|Sahir]] tomorrow.
 

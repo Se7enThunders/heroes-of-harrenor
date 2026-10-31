@@ -15,12 +15,12 @@ played: 2026-01-11
 - The group decided that [[Theodore Silver]] will take lordship of the castle, called [[Sunwatch]], with [[Dharshoon]] also residing there.
 - [[Brutus]] detailed the history of the extinct house and its lost eternium heirlooms: the sword [[Radiance]], the helm of [[Titus Lancaster|Titus]], and the axe [[Darkeater]].
 - The party discovered a door of [[Everwhite Trees|Everwhite]] wood in the master’s chambers that emitted a magical cold and offered a brief, supernatural glimpse of another room.
-- After an investigation into the magical nature of [[Titus Aurelius|Lord Titus]]’ tomb, a ==mysterious metallic sound== echoed behind the party as they prepared to depart the crypt.
+- After an investigation into the magical nature of [[Titus Aurelius|Lord Titus]]’ tomb, a <mark>mysterious metallic sound</mark> echoed behind the party as they prepared to depart the crypt.
 
 ## Now
 
 - We turn to see the sword the statue was holding now sitting on the ground. ![[Session 19 art 1.jpg|hh-pop]]
-	- It's ==blade is silver-white with a gold pommel, black leather wrapping the handle, a ruby set near the base of the scabard==.
+	- It's <mark>blade is silver-white with a gold pommel, black leather wrapping the handle, a ruby set near the base of the scabard</mark>.
 - [[Theodore Silver|Theo]], newly made Lord of Castle [[Sunwatch]] by its castellan, [[Brutus]], picks up the weapon.
 	- It fits his hand nicely. It is very sharp, as [[Brutus]] warns him. It is called [[Radiance]]. ![[Session 19 art 2.jpg|hh-pop]]
 - We congratulate him.
@@ -105,7 +105,7 @@ played: 2026-01-11
 - They find a large tent in the center of the old camp.
 - Inside they investigate, finding it recently ransacked, a pool of blood on the floor, partially buried under debris.
 	- He lifts up the debris, and sees a dead [[Ra'Haadi forces|Ra'Haadi]] man, throat slit.
-	- He notices a tattoo on the man's wrist, ==all in black in the shape of an eye, a star above, a flame below==.
+	- He notices a tattoo on the man's wrist, <mark>all in black in the shape of an eye, a star above, a flame below</mark>.
 	- [[Dharshoon]] notices the tattoo aligns with the iconography in [[The black tower|the black tower]] in [[Ra'Haad]].
 - [[Dharshoon]] leads them to the docks, noting several ships at port.
 	- They note several are [[Ra'Haadi forces|Ra'Haadi]], likely commandeered after the invasion.

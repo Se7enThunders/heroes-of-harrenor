@@ -77,7 +77,7 @@ played: 2026-10-25
 	- [[Lord Callum Douglas|Douglass]] cries out, "kill them!" The attack on [[Henry Grey|King Grey]] and his men commences.
 	- [[Henry Grey|King Grey]] and his men are vastly outnumbered by these [[House Lancaster|Lancaster]] soldiers in disguise.
 	- Chaos ensues and the [[Theodore Silver|Theo]] and [[Raouen Sanderfell|Raouen]] fight for their lives alongside [[Henry Grey|King Grey]] and the few men with him.
-	- One of the knight's removes his helm, revealing himself to be [[Raouen Sanderfell|Raouen]]'s father. He stabs [[Henry Grey]] in the chest, saying =="[[Titus Lancaster]] sends his regards."==
+	- One of the knight's removes his helm, revealing himself to be [[Raouen Sanderfell|Raouen]]'s father. He stabs [[Henry Grey]] in the chest, saying <mark>"[[Titus Lancaster]] sends his regards."</mark>
 	- [[Henry Grey|King Grey]]'s men are killed, and [[Raouen Sanderfell|Roauen]] is spared, per order of [[Raouen Sanderfell|Roauen]]'s father.
 	- [[Raouen Sanderfell|Roauen]] spits in his face, his father slaps him and orders him carried off.
 	- [[Theodore Silver|Theo]] is taken prisoner.
@@ -87,7 +87,7 @@ played: 2026-10-25
 ## Combat
 
 - The party and along with the army and the camp becomes a battlefield in an instant, the party is swarmed by grunt level soldiers, axemen, and bowmen.
-- We spring into action quickly, [[Joran Jotunsson|Joran]] saying a prayer to [[The Almighty|the Almighty]], and his ==sword beginning to glow==.
+- We spring into action quickly, [[Joran Jotunsson|Joran]] saying a prayer to [[The Almighty|the Almighty]], and his <mark>sword beginning to glow</mark>.
 - Our attackers are poorly trained and fall quickly.
 - [[Hadron Ironwood|Hadron]] shows his worth, by casting fire spells that do tremendous damage.
 - We quickly mop up the remaining soldiers attacking us.

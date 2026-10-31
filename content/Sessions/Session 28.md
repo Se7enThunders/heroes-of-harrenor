@@ -12,7 +12,7 @@ played: 2026-09-20
 ## Previously
 
 - The party vanquished the undead [[The Grand Marshal|Grand Marshal]] after discovering he was absorbing defeated minions, only for dark magic to revive him until [[Joran Jotunsson|Joran]] executed a two-blade decapitation.
-- [[Joran Jotunsson|Joran]] claimed the ==Marshal's fading magical blade== while an old order revealed the Marshal was betrayed and trapped by the "[[The Iron Fist|Iron Fist]]"—a northern commander charged with defending the city.
+- [[Joran Jotunsson|Joran]] claimed the <mark>Marshal's fading magical blade</mark> while an old order revealed the Marshal was betrayed and trapped by the "[[The Iron Fist|Iron Fist]]"—a northern commander charged with defending the city.
 - [[Theodore Silver|Theo]] unsealed the rune-locked door by extinguishing eight braziers and the central pyre, freeing nine agonizingly bound spirits into the afterlife.
 - Entering the throne room, the party confronted the massive [[The Iron Fist|Iron Fist]], who brutally snapped a captive maiden's neck and revealed he is [[Joran Jotunsson|Joran]]'s half-brother, before attacking the party.
 
@@ -104,7 +104,7 @@ played: 2026-09-20
 - We make it out of [[The Blight|the Blight]] and into [[Ra'Haad]] proper on [[The Blight|the Blight]]'s north edge.
 - We see a settlement in the distance with many soldiers gathering toward that settlement. [[Joran Jotunsson|Joran]] worries it’s a sign of a gathering invasion force.
 - We move in to investigate, coming up the backside of a hilltop.
-- What we see is a massing of well over 100,000 troops. ==Invasion==.
+- What we see is a massing of well over 100,000 troops. <mark>Invasion</mark>.
 
 ---
 

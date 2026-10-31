@@ -15,7 +15,7 @@ played: 2025-12-07
 - The party tracked their target and found [[Sophia Grey]] with [[Sir Garrik Ryder|Sir Garrik]] of [[House Ryder]] at a village inn. The confrontation failed, resulting in a brief fight where [[Sir Garrik Ryder|Garrik]] nicked [[Joran Jotunsson|Joran]] before escaping onto the roof.
 - [[Sophia Grey|Sophia]] ultimately surrendered to the party after [[Joran Jotunsson|Joran]] pleaded with [[Sir Garrik Ryder|Garrik]], who then broke fealty with the [[House Lancaster|Lancasters]] and surrendered her. The party did not apprehend [[Sir Garrik Ryder|Garrik]], respecting his motives for protecting [[Sophia Grey|Sophia]].
 - The party returned to [[Brightguard]] and handed [[Sophia Grey|Sophia]] over. They learned [[Henry Grey]] recaptured [[Oldport]] and that [[Godric Arden|King Godric]] was preparing terms to force [[House Grey|Grey]] into fealty in exchange for his sister.
-- [[Joran Jotunsson|Joran]] overheard [[Godric Arden|Godric]] and the Queen discussing a new court fixture: a "madman" [[Jingle Bell|jester]] found in a shipwreck. The session concluded with the [[Jingle Bell|jester]]'s chilling, sing-song prophecy about "==red wolves feast[ing] on stags==."[[Joran Jotunsson|Joran]] has an unsettling dream wherein he's confronted by his father and a dark version of himself, calling on him to fulfill his purpose as the son of the god of war.
+- [[Joran Jotunsson|Joran]] overheard [[Godric Arden|Godric]] and the Queen discussing a new court fixture: a "madman" [[Jingle Bell|jester]] found in a shipwreck. The session concluded with the [[Jingle Bell|jester]]'s chilling, sing-song prophecy about "<mark>red wolves feast[ing] on stags</mark>."[[Joran Jotunsson|Joran]] has an unsettling dream wherein he's confronted by his father and a dark version of himself, calling on him to fulfill his purpose as the son of the god of war.
 
 ## Now
 
@@ -93,10 +93,10 @@ played: 2025-12-07
 	- [[Joran Jotunsson|Joran]] holds up the missive from [[Godric Arden|King Godric]], but the men ignore it, leveling swords and crossbows at us.
 	- There are men hiding in the bushes as well.
 
-==“The sun-crowned men cross sands of gold,==
-==To drink [[The South|the South]] where hearts grow cold.==
-==I know! I know! Oh yes I know!”==
-=="Star-fallen angels stir far to the north,== ======as age-old legions issue forth!== ======I know! I know! Oh yes I know!"==
+<mark>“The sun-crowned men cross sands of gold,</mark>
+<mark>To drink [[The South|the South]] where hearts grow cold.</mark>
+<mark>I know! I know! Oh yes I know!”</mark>
+<mark>"Star-fallen angels stir far to the north,</mark> ====<mark>as age-old legions issue forth!</mark> ====<mark>I know! I know! Oh yes I know!"</mark>
 
 COMBAT!
  - The highwaymen are ill-prepared form seasoned combatants that are the party and begin to fall quickly. ![[Session 17 art 1.jpg|hh-pop]]

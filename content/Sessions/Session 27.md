@@ -31,7 +31,7 @@ played: 2026-08-23
 
 ## End Combat
 
- - [[Joran Jotunsson|Joran]] holds the blade and sees its ==magical shine as if white glass== quickly fade as the curse holding it in time.
+ - [[Joran Jotunsson|Joran]] holds the blade and sees its <mark>magical shine as if white glass</mark> quickly fade as the curse holding it in time.
 	- It is magical, but damaged. [[Joran Jotunsson|Joran]] stores it on his person to investigate later.
 - [[Joran Jotunsson|Joran]] notices Varanorian runes sealing a nearby door, the runes glowing like embers.
 - We decide to take short rest to recover.

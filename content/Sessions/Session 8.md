@@ -58,7 +58,7 @@ played: 2025-06-22
 - The [[Emir Hadi ibn Ghassan|Emir]] plays he cards close to his chest, neither denying or confirming truth to the rumor.
 - [[Sahir Ebon'Sayid|Sahir]] pries again, but to no avail.
 - [[Raouen Sanderfell|Raouen]] feels a hand grab is harm from behind. It is a [[Ra'Haadi forces|Ra'Haadi]] man asking for the message that he carries.
-	- [[Raouen Sanderfell|Raouen]] tells him =="there will be no hunt,"== citing too much risk.
+	- [[Raouen Sanderfell|Raouen]] tells him <mark>"there will be no hunt,"</mark> citing too much risk.
 	- The rest of the party is quite concerned as to whatever this is about, eying [[Raouen Sanderfell|Raouen]] questioningly.
 - [[The man in black]] approaches and stares at [[Draven Throssenheiser|Draven]], asking if they know each other.
 	- [[Draven Throssenheiser|Draven]] denies any familiarity.
@@ -74,7 +74,7 @@ played: 2025-06-22
 	- [[Lord Thomas Baring|Barring]] is a [[House Lancaster|Lancaster]] man.
 	- [[Raouen Sanderfell|Raouen]] was/is on a mission to infiltrate the [[House Grey|Grey]] camp and gain an audience with [[Henry Grey]], giving him a message from [[Lord Thomas Baring|Barring]], which he didn't do.
 	- As we departed to [[Ra'Haad]], he got another message from [[Lord Thomas Baring|Barring]].
-		- =="Gold wild buy from the scimitar a fine pelt of young game. Winter has gone the hunt has begun."== (It's time for a [[03 The Jihads|jihad]])
+		- <mark>"Gold wild buy from the scimitar a fine pelt of young game. Winter has gone the hunt has begun."</mark> (It's time for a [[03 The Jihads|jihad]])
 	- He says the man who accosted us was [[Salim al Muqtar]].
 	- This condemns [[Raouen Sanderfell|Raouen]]'s brother in law to death and likely his sister to a life of poverty.
 - [[Joran Jotunsson|Joran]] pats [[Raouen Sanderfell|Raouen]] on the back and thanks him for being strong and making the right decision, knowing that his brother-in-law's captors would never run out of ways to manipulate him.

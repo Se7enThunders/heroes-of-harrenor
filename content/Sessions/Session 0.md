@@ -42,9 +42,9 @@ The lords and attendees head to their quarters in the castle for the evening.
 
 We each go to sleep. LONG REST.
 
-==We each have an identical dream.==
+<mark>We each have an identical dream.</mark>
 
-We see a field that turns dark as if on fire. We see a city on a hill in the distance burning. In the field below it, we see the boney ==corpse of a stag== with many wounds. A ==dead lion== lies next to it. Between them is a ==broken sword and crown made of steel and rusting==, like they've been there a long time. No sign of life anywhere around. Everything is grey, black, and ash. In the distance we see a ==dark figure== staring at the ==burning city==.
+We see a field that turns dark as if on fire. We see a city on a hill in the distance burning. In the field below it, we see the boney <mark>corpse of a stag</mark> with many wounds. A <mark>dead lion</mark> lies next to it. Between them is a <mark>broken sword and crown made of steel and rusting</mark>, like they've been there a long time. No sign of life anywhere around. Everything is grey, black, and ash. In the distance we see a <mark>dark figure</mark> staring at the <mark>burning city</mark>.
 
 [[Elara]] and [[Joran Jotunsson|Joran]] are both present in the dream and can see each other. [[Joran Jotunsson|Joran]] calls out to the figure, which does not respond. [[Joran Jotunsson|Joran]] tries to approach it, but cannot as a presence weighs heavy on his mind. [[Elara]] tries to approach too. She cannot. The two talk to each other, realizing the other is really there, trying to understand what is happening.
 
@@ -80,7 +80,7 @@ The wolf lord has a son with him about 16.
 
 [[Godric Arden|Godric]] recognizes the man as [[Lord William Marshall|Lord Marshall]]. He gives him a [[Godric Arden|Godric]] a letter, sealed by the royal court.
 
-The knights yell out. "==Hail his grace [[Godric Arden|King Godric I]]==!" [[Godric Arden|Godric]] summons his war council, asking [[Joran Jotunsson|Joran]] and [[Elara]] to come as well. (this indicates his older brother [[Godfrey Arden|Godfrey]] is no longer king of the realm.)
+The knights yell out. "<mark>Hail his grace [[Godric Arden|King Godric I]]</mark>!" [[Godric Arden|Godric]] summons his war council, asking [[Joran Jotunsson|Joran]] and [[Elara]] to come as well. (this indicates his older brother [[Godfrey Arden|Godfrey]] is no longer king of the realm.)
 
 [[Godric Arden|Godric]] begins the meeting by announces his brother's death. [[Edward Grey|Lord Edward Grey]] has been captured by [[Catherine Lancaster]]. [[William Arden|William]]'s bastard parentage has come up again. His father supposedly being [[Sir Avery Mortimer]].
 

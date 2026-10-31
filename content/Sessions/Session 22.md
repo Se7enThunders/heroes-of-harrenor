@@ -64,7 +64,7 @@ played: 2026-03-01
 	- We thank her for her escort.
 	- [[Artorius]] must depart as well.
 - [[Theodore Silver|Theo]] leads us back to [[Sunwatch]], [[Joran Jotunsson|Joran]] going last.
-	- [[Joran Jotunsson|Joran]] screams at the sky before stepping through, =="Father! I curse you, in the name of the true God! [[The Almighty|Almighty]] curse you! You will lose, and I pray my God will let me be the instrument of your destruction!"== He spits on the ground and then step through the door.
+	- [[Joran Jotunsson|Joran]] screams at the sky before stepping through, <mark>"Father! I curse you, in the name of the true God! [[The Almighty|Almighty]] curse you! You will lose, and I pray my God will let me be the instrument of your destruction!"</mark> He spits on the ground and then step through the door.
 - We take a long rest. [[Theodore Silver|Theo]] crashes hard and rests longer.
 - [[Raouen Sanderfell|Raouen]] is uncomfortable with the ring he picked up, asking [[Joran Jotunsson|Joran]] for advice.
 	- [[Joran Jotunsson|Joran]] thinks if it's cursed, [[Raouen Sanderfell|Raouen]] wouldn't want to part with it.

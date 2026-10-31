@@ -41,7 +41,7 @@ played: 2026-03-22
 	- [[Raouen Sanderfell|Raouen]] shrugs, not wanting the conversation continue.
 	- The man persists, explaining he helped with his father's accounts, reminding him his family was allied with the [[House Lancaster|Lancasters]].
 	- The man states he means no offense, and slyly implies that [[Raouen Sanderfell|Raouen]]'s family remains in the bank's debt and when his father passes, that debt will be his.
-	- As the man departs, [[Raouen Sanderfell|Raouen]] notices his signet ring. ==A mocking bird==.
+	- As the man departs, [[Raouen Sanderfell|Raouen]] notices his signet ring. <mark>A mocking bird</mark>.
 	- The three a shaken and consider how deep the corruption of this mocking bird organization goes.
 - [[Joran Jotunsson|Joran]] heads into the Cathedral, joining a service in progress. ![[Session 23 art 3.png|hh-pop]]
 	- The preacher speaks on perseverance and seeking wisdom from wise counselors and prayer to [[The Almighty|the Almighty]].

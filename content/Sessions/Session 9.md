@@ -95,12 +95,12 @@ COMBAT!
 - [[Draven Throssenheiser|Draven]] regains his composure and rushes [[The man in black|the man in black]], destroying his final illusion.
 - [[Raouen Sanderfell|Raouen]] gets behind the bowman and gets the kill, moving to the assassin as his target.
 - [[The man in black]] continues to use illusion magic to escape taking blows.
-- [[Joran Jotunsson|Joran]] lands the final blow on [[The man in black|the man in black]], plunging his greatsword through his abdomen, looking into his eyes as they quickly dim, telling him, "==no amount of elven blood will extend your life now. Die==."
+- [[Joran Jotunsson|Joran]] lands the final blow on [[The man in black|the man in black]], plunging his greatsword through his abdomen, looking into his eyes as they quickly dim, telling him, "<mark>no amount of elven blood will extend your life now. Die</mark>."
 - [[Theodore Silver|Theo]] gets the final kill on the assassin.
 
 ## End Combat
 
-- [[The man in black]] through fits of coughing up blood laughs at us, telling us ==they found where [[Sahir Ebon'Sayid|Sahir]]'s freed-slave city is located==. He then dies.
+- [[The man in black]] through fits of coughing up blood laughs at us, telling us <mark>they found where [[Sahir Ebon'Sayid|Sahir]]'s freed-slave city is located</mark>. He then dies.
 - We find [[Elia]] alive and unscathed at the top of the tower. She rushes to [[Theodore Silver|Theo]] and embraces him, thanking him for the rescue.
 - [[Draven Throssenheiser|Draven]] takes a hard look at the orb on the pylon in the center of the room. He is urged to grab it.
 - Just as he's about to put it down, it explodes with light and magic.
